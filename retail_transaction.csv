@@ -1,0 +1,1168 @@
+CustomerID,ProductID,Quantity,Price,TransactionDate,PaymentMethod,ProductCategory,DiscountApplied(%)
+169,B,7,76.15,1/31/2024 10:50,Cash,Clothing,14.2
+213,C,4,85.59,6/26/2023 21:13,Credit Card,Home Decor,0.5
+315,C,4,94.33,8/18/2023 07:01,Cash,Electronics,20
+442,B,6,81,8/30/2023 03:37,Debit Card,Home Decor,16
+587,B,1,45.68,9/14/2023 23:34,Credit Card,Home Decor,10.3
+614,D,8,26.04,9/9/2023 13:53,Debit Card,Clothing,9.1
+737,C,8,39.08,8/25/2023 05:22,Cash,Home Decor,
+1257,A,1,77.53,4/17/2024 08:50,PayPal,Electronics,16.1
+1583,C,5,81.01,1/7/2024 05:02,PayPal,Home Decor,5.5
+1759,A,9,54.58,7/16/2023 02:00,Credit Card,Home Decor,13.2
+1818,D,8,76.99,12/11/2023 09:40,Credit Card,Electronics,18
+1856,B,6,67.12,2/9/2024 17:30,Cash,Clothing,14.1
+1895,A,4,69.32,4/26/2024 23:45,PayPal,Clothing,6.7
+1997,A,7,,2/19/2024 15:18,Cash,Home Decor,13
+2125,C,9,,9/5/2023 18:14,Cash,Home Decor,19.1
+2151,C,8,128.13,11/4/2023 02:31,PayPal,Electronics,18.7
+2263,D,6,47.68,10/20/2023 03:28,Cash,Clothing,6.5
+2398,C,9,221,4/20/2024 11:19,Credit Card,Electronics,9.5
+2482,C,9,54.82,1/17/2024 21:55,Debit Card,Books,9.7
+2568,D,6,47.32,7/20/2023 06:40,Cash,Books,19.1
+2657,D,3,59.77,12/8/2023 15:02,PayPal,Books,15.4
+2948,A,8,16.24,11/1/2023 06:41,Cash,Books,8.4
+2963,D,2,148.2,7/27/2023 00:10,Credit Card,Electronics,11
+3287,D,6,85.19,1/30/2024 00:38,Cash,Books,0.1
+3482,B,1,97.96,4/6/2024 21:01,PayPal,Electronics,14.6
+3954,D,3,27.36,6/25/2023 09:17,Cash,Books,19.5
+4216,C,5,37.36,1/13/2024 20:34,Cash,Books,2.8
+4397,D,4,34.84,5/8/2023 13:25,PayPal,Clothing,6.2
+4499,C,9,40.32,9/6/2023 12:32,PayPal,Clothing,2.3
+4520,A,7,61.24,1/29/2024 20:41,PayPal,Home Decor,13.9
+4702,A,8,46.06,11/25/2023 05:44,Debit Card,Clothing,14.6
+4779,C,6,32.61,9/18/2023 01:03,PayPal,Home Decor,3
+4937,C,1,33.5,9/26/2023 19:52,Cash,Home Decor,2
+4953,B,7,28.38,7/28/2023 19:39,Cash,Home Decor,16.9
+5164,D,9,60.63,4/23/2024 21:32,PayPal,Clothing,3
+5440,C,8,58.25,6/13/2023 11:15,PayPal,Clothing,2.9
+5672,B,8,11.12,8/10/2023 15:27,Debit Card,Clothing,10.4
+5674,B,4,126.42,10/31/2023 16:25,PayPal,Electronics,9.5
+5778,D,6,103.16,8/12/2023 03:07,Credit Card,Electronics,7.5
+5979,A,4,92.73,9/24/2023 23:16,Cash,Electronics,6.9
+6197,A,8,84.78,7/9/2023 07:43,Debit Card,Electronics,23.9
+6408,B,6,59.27,11/23/2023 04:40,Credit Card,Books,5.7
+7445,B,3,98.05,4/21/2024 08:34,Cash,Clothing,17.1
+7625,B,8,91.95,11/28/2023 23:55,Credit Card,Electronics,13.5
+7982,D,9,61.78,3/1/2024 14:16,Cash,Books,11.3
+8546,D,3,90.4,9/20/2023 09:10,Cash,Electronics,23.7
+8638,A,7,50.82,9/13/2023 08:42,Credit Card,Home Decor,1.6
+8745,C,2,125.41,3/28/2024 17:49,Debit Card,Electronics,11
+8915,C,4,111.65,11/21/2023 16:09,Debit Card,Electronics,17.1
+9166,B,3,144.33,12/13/2023 02:59,Credit Card,Electronics,16.3
+9186,A,3,70.48,1/26/2024 05:14,PayPal,Books,0.9
+9228,A,8,115.67,1/25/2024 13:14,Debit Card,Electronics,19.5
+9300,A,9,88.24,3/11/2024 02:28,PayPal,Books,0.9
+9475,A,4,19.71,2/14/2024 17:01,PayPal,Home Decor,11.7
+9497,C,3,80.16,6/30/2023 22:19,PayPal,Clothing,6.1
+9739,D,7,142.05,3/10/2024 11:03,Credit Card,Electronics,15.9
+9961,B,4,52.8,5/10/2023 14:13,Cash,Home Decor,16.5
+10083,D,1,67.24,8/28/2023 05:14,Credit Card,Electronics,5.5
+10186,A,3,111.39,1/26/2024 09:45,PayPal,Electronics,19.8
+10489,C,8,60.74,1/9/2024 23:56,Debit Card,Clothing,17
+11039,D,2,48.98,9/11/2023 08:43,Debit Card,Home Decor,18.4
+11260,D,6,34.58,8/3/2023 18:22,Debit Card,Books,16.9
+11452,B,7,100.28,3/8/2024 12:40,Credit Card,Electronics,11.2
+11514,B,1,104.94,2/7/2024 07:30,Credit Card,Electronics,24
+11882,D,5,7890,5/28/2023 07:45,Debit Card,Electronics,18.1
+12130,D,4,46.34,1/19/2024 07:01,PayPal,Home Decor,9
+12770,D,8,137.9,3/27/2024 14:38,Cash,Electronics,17.1
+12961,A,4,46.39,8/8/2023 18:37,Credit Card,Clothing,17.9
+12984,D,7,45.7,6/2/2023 22:02,Credit Card,Home Decor,15.2
+13104,D,1,44.55,6/20/2023 03:01,Debit Card,Clothing,3.4
+13132,C,7,40.26,7/19/2023 04:32,,Clothing,12.2
+13498,C,7,45.18,2/25/2024 22:39,,Clothing,11.3
+13670,B,7,30.58,4/8/2024 04:15,,Books,16.5
+13778,B,3,101.3,11/11/2023 09:55,,Electronics,23.3
+13792,D,6,47.59,2/1/2024 13:21,,Books,3.7
+13852,D,3,48.61,5/22/2023 23:02,PayPal,Books,13.4
+13896,C,4,24.66,3/25/2024 02:54,Debit Card,Books,16.8
+14147,D,1,59.19,5/19/2023 05:23,PayPal,Books,19.9
+14787,B,9,17834,3/28/2024 11:13,Debit Card,Electronics,16.9
+14989,C,6,42.43,10/3/2023 17:23,PayPal,Books,1.6
+15134,A,4,108.33,12/19/2023 11:16,PayPal,Electronics,7.6
+15472,D,5,11.14,9/25/2023 00:00,Credit Card,Books,8.3
+16006,D,5,88.65,2/15/2024 23:27,PayPal,Electronics,19
+16227,D,3,63.15,5/30/2023 21:45,PayPal,Clothing,5.7
+16642,A,1,123.65,2/29/2024 03:59,Cash,Electronics,23.6
+16895,C,9,21.58,3/16/2024 19:15,Credit Card,Home Decor,13.2
+16951,B,7,48.07,4/13/2024 21:02,Credit Card,Clothing,16.5
+17218,,1,81.27,9/6/2023 04:31,PayPal,Books,10.9
+17815,,1,78.76,5/31/2023 14:33,Cash,Electronics,5.3
+18105,,7,123.69,3/14/2024 23:56,Credit Card,Electronics,18.3
+19113,C,1,37.82,1/26/2024 15:52,Cash,Home Decor,11.7
+19172,D,2,86.24,10/2/2023 03:11,Credit Card,Electronics,14
+19178,A,1,38.75,9/21/2023 20:32,Debit Card,Home Decor,6.8
+19469,D,2,17.08,1/27/2024 11:34,Cash,Books,11.8
+19555,D,3,53.12,2/11/2024 23:37,Credit Card,Books,6.8
+19605,B,2,146.28,8/7/2023 15:17,Cash,Electronics,11
+19673,C,9,130.21,12/25/2023 22:01,PayPal,Electronics,10.3
+19726,D,5,89.53,11/1/2023 21:28,Cash,Home Decor,17.2
+19731,C,9,69.91,11/8/2023 17:06,Cash,Books,11.4
+19890,D,8,93.39,6/29/2023 10:25,Cash,Books,1.7
+20444,D,3,27.14,3/9/2024 07:36,Debit Card,Home Decor,17.8
+20545,A,4,108.6,1/11/2024 14:49,Credit Card,,18.1
+20566,B,6,127.04,10/19/2023 21:20,Credit Card,Electronics,16.9
+20739,B,9,76.13,4/15/2024 02:21,Debit Card,Books,6.7
+20799,A,7,109.66,2/18/2024 20:41,Debit Card,Electronics,11.7
+20833,C,7,37.98,2/23/2024 09:17,Credit Card,Clothing,1.2
+21269,D,4,72.73,10/5/2023 18:54,PayPal,Clothing,17.4
+22151,A,8,73.72,4/23/2024 12:03,Credit Card,,8.6
+22472,,1,134.65,8/28/2023 23:39,PayPal,Electronics,24.8
+23125,A,4,122.27,3/16/2024 16:36,Credit Card,Electronics,14.6
+23275,C,7,144.8,3/18/2024 20:12,Debit Card,Electronics,22.7
+23305,D,3,89.21,2/2/2024 10:43,Credit Card,Books,7.7
+23322,A,8,87.63,10/29/2023 18:55,PayPal,Books,6
+23415,A,8,11.87,5/27/2023 07:38,Cash,Clothing,2.2
+23672,A,2,134.33,9/23/2023 13:13,Debit Card,Electronics,17.8
+23786,A,7,41.28,6/21/2023 20:30,Cash,Books,8.8
+23804,B,8,123.48,6/5/2023 23:59,Debit Card,Electronics,16.9
+23830,C,1,60.46,1/14/2024 00:26,Debit Card,Books,16.3
+24053,D,7,131.8,11/5/2023 19:54,PayPal,Electronics,16.2
+24397,D,9,152.07,10/2/2023 17:36,PayPal,Electronics,7.8
+24398,C,5,89.15,1/16/2024 04:42,Cash,Electronics,13.1
+24419,C,4,82.09,5/10/2023 06:49,Cash,Books,0.2
+25097,A,5,65.9,9/17/2023 15:37,Credit Card,Books,12.4
+25136,C,7,14.82,5/21/2023 09:40,Credit Card,Books,11.5
+25210,A,4,83.75,5/17/2023 12:01,Credit Card,Electronics,18.1
+25304,A,1,,12/26/2023 11:14,Cash,Electronics,12.7
+25569,C,2,,2/9/2024 00:39,Debit Card,Home Decor,12
+25939,A,1,149.41,10/6/2023 08:32,Debit Card,Electronics,24.4
+26071,C,8,117.66,5/7/2023 09:35,Cash,Electronics,16.6
+26457,B,4,14.84,5/23/2023 05:59,PayPal,Books,3
+26863,B,3,56,12/27/2023 15:34,Credit Card,Electronics,19.4
+27251,A,8,73.51,5/6/2023 01:15,Credit Card,Books,7.3
+27330,C,3,56.99,2/16/2024 02:22,Credit Card,Clothing,4.2
+28025,D,,55.26,6/9/2023 13:04,Cash,,18.6
+28242,D,1,99.04,11/7/2023 18:57,Cash,,13.9
+28571,A,3,87.66,9/29/2023 23:51,Cash,Books,7.2
+28625,A,8,78.45,12/30/2023 20:48,PayPal,Books,19.4
+28781,C,1,21.98,12/23/2023 23:23,Credit Card,Clothing,19.1
+29421,A,1,87.63,1/25/2024 16:54,Cash,Clothing,10.6
+29427,A,6,65.6,1/2/2024 21:58,Debit Card,Home Decor,12.3
+29813,A,2,23.2,1/19/2024 08:58,Debit Card,Clothing,15
+29889,D,9,131.15,5/8/2023 21:18,Debit Card,Electronics,15.4
+29948,C,4,149.91,2/5/2024 08:24,Credit Card,Electronics,8.3
+30240,D,6,17.74,12/19/2023 20:04,Credit Card,Books,4.5
+30399,C,6,153.03,3/19/2024 16:02,Credit Card,Electronics,23.7
+30808,B,2,11.28,7/14/2023 18:05,Debit Card,Clothing,11.4
+31011,A,5,70.61,5/6/2023 04:46,PayPal,Books,3.6
+31041,B,2,97.04,12/8/2023 12:46,Debit Card,Home Decor,0.5
+31253,B,2,28.81,9/20/2023 16:53,Debit Card,Books,10.9
+31815,C,8,115.97,8/23/2023 13:21,Credit Card,Electronics,18
+32343,B,4,107.59,5/6/2023 02:48,PayPal,Electronics,15.7
+33156,D,7,138.49,9/21/2023 14:29,Cash,Electronics,22.2
+33341,A,7,97.98,11/16/2023 23:22,Debit Card,Books,8.3
+33715,C,3,89.31,8/22/2023 00:03,PayPal,Books,7.7
+33857,B,8,140.95,10/25/2023 06:49,PayPal,Electronics,13.3
+34210,B,6,106.96,2/26/2024 19:24,Cash,Electronics,6.5
+34339,C,9,59.05,12/30/2023 03:14,Debit Card,Books,14.8
+34425,A,4,21.97,9/20/2023 11:18,PayPal,Home Decor,8.4
+34550,A,1,72.94,5/5/2023 00:31,Credit Card,Electronics,8.2
+34579,D,9,47.3,8/25/2023 02:42,Debit Card,Home Decor,12.1
+35261,C,7,10.66,2/23/2024 10:08,Debit Card,Clothing,9.3
+35282,B,3,38.53,1/20/2024 05:17,Cash,Clothing,5.2
+35815,D,6,47.68,4/23/2024 13:11,Cash,Books,18.8
+35839,B,4,85.6,12/30/2023 09:31,Debit Card,Electronics,21.4
+35935,B,1,45.56,1/21/2024 21:44,Credit Card,Home Decor,18.4
+36024,A,2,66.19,9/2/2023 19:31,Credit Card,Clothing,8.1
+36026,D,6,29.73,6/25/2023 21:55,Debit Card,Books,19.4
+36091,D,8,65.43,12/6/2023 23:51,PayPal,Home Decor,6.3
+36534,C,2,85.79,10/30/2023 22:57,Cash,Home Decor,4.3
+36603,A,1,89.3,10/10/2023 04:01,Credit Card,Clothing,2.9
+36770,B,4,139.29,9/19/2023 15:47,Credit Card,Electronics,13.3
+36943,A,5,134.91,11/23/2023 12:37,Cash,Electronics,5.3
+36973,B,9,17.72,10/14/2023 18:46,PayPal,Home Decor,4.4
+37160,A,3,48.42,4/22/2024 00:38,Credit Card,Home Decor,6.5
+38054,A,9,23.26,7/21/2023 04:46,PayPal,Books,6.7
+38056,C,3,52.67,12/17/2023 18:53,Cash,Home Decor,6.1
+39011,D,5,82.28,10/21/2023 10:40,Debit Card,Electronics,11.4
+39243,D,7,82.39,4/14/2024 20:20,Credit Card,Electronics,10.3
+39516,B,5,28.28,8/21/2023 01:21,Debit Card,Books,4.6
+39639,A,4,22.61,12/27/2023 08:41,Credit Card,Books,17.4
+39731,C,5,99.62,2/2/2024 08:37,Cash,Books,9.4
+40009,A,7,,11/25/2023 13:33,Cash,Electronics,14.9
+40031,C,6,,11/5/2023 19:32,PayPal,Electronics,13.6
+40283,C,8,57,7/8/2023 02:33,Credit Card,Books,6.2
+40409,A,4,82.1,4/7/2024 23:28,Credit Card,Home Decor,14.4
+40949,A,6,71.95,1/24/2024 13:06,PayPal,Books,4.4
+40983,C,3,140.01,11/7/2023 18:52,Debit Card,Electronics,14.3
+41725,D,3,25.41,5/19/2023 09:45,Cash,Home Decor,9.2
+41945,C,7,108.34,3/29/2024 02:05,Credit Card,Electronics,13.7
+41978,D,3,75.73,9/26/2023 03:30,PayPal,Home Decor,2.4
+42151,C,3,22.36,8/20/2023 22:30,Debit Card,Books,1.2
+42553,B,1,37.34,6/19/2023 03:18,Debit Card,Home Decor,7.6
+42621,D,6,83.51,7/27/2023 02:54,Cash,Books,12.4
+42851,B,8,114.27,8/12/2023 05:49,Debit Card,Electronics,23
+43006,A,5,77.34,6/6/2023 05:55,PayPal,Electronics,12.6
+43657,A,9,75.92,4/13/2024 22:58,PayPal,Electronics,9
+43807,C,7,21.32,9/25/2023 08:00,Debit Card,Home Decor,3.6
+43976,C,7,77.38,2/10/2024 01:14,Credit Card,Books,19.9
+44194,D,2,126.03,12/19/2023 22:50,PayPal,Electronics,15.6
+44332,C,6,31.43,8/31/2023 06:26,PayPal,Home Decor,1.4
+44424,D,2,13.41,5/10/2023 17:44,Cash,Home Decor,13.3
+45061,D,7,71.99,11/25/2023 14:02,Cash,Electronics,6.7
+45642,C,9,88.57,7/25/2023 12:37,Debit Card,Home Decor,10.2
+45694,C,6,73.65,9/22/2023 21:17,Cash,Books,17.9
+46410,C,7,48.14,6/14/2023 21:11,Credit Card,Home Decor,3.5
+47064,B,1,84.77,7/29/2023 09:24,Cash,Electronics,18.8
+47247,D,2,87.81,7/8/2023 13:01,Cash,Books,13.7
+47579,A,4,88.6,2/19/2024 06:54,Cash,Electronics,16.8
+47662,A,4,15.97,12/18/2023 02:12,Debit Card,Home Decor,9.6
+47999,D,3,43.69,3/12/2024 18:31,PayPal,Home Decor,20
+48087,D,9,61.24,2/25/2024 14:25,Debit Card,Books,18.7
+48389,A,,68.57,12/28/2023 06:40,PayPal,Books,2.5
+48901,A,3,122.31,6/7/2023 16:30,Cash,Electronics,22.3
+48998,D,5,84.9,1/20/2024 19:00,Credit Card,Books,2.5
+49190,A,7,85.07,6/2/2023 00:05,PayPal,Books,19
+50295,D,5,98.07,5/23/2023 15:23,Debit Card,Home Decor,6.4
+51039,D,6,113.96,9/12/2023 11:12,Debit Card,Electronics,20.1
+51154,D,7,141.3,8/17/2023 21:35,Credit Card,Electronics,23.9
+51501,B,3,130.33,4/12/2024 06:38,PayPal,Electronics,20.7
+52764,C,1,129.69,10/25/2023 18:38,Cash,Electronics,18.3
+52978,D,9,40.06,5/14/2023 16:54,Cash,Books,13.7
+53274,D,1,96.18,4/7/2024 20:49,Cash,Books,8.6
+53295,D,7,40.95,6/2/2023 04:06,Credit Card,Books,8.2
+53359,A,6,47.98,1/20/2024 09:40,Credit Card,Home Decor,1.4
+53363,B,8,53.32,6/29/2023 09:45,PayPal,Home Decor,3.8
+53487,C,6,78.34,9/8/2023 10:44,Credit Card,Books,11.5
+53851,C,5,77.87,3/15/2024 04:54,PayPal,Home Decor,10.9
+54170,D,5,42.35,3/24/2024 14:42,Credit Card,Home Decor,10.8
+54447,C,4,145.01,1/29/2024 08:13,Credit Card,Electronics,19.2
+54514,B,4,84.22,10/11/2023 17:30,Debit Card,Books,12.1
+54716,A,9,10.53,2/7/2024 16:49,PayPal,Books,11.3
+54861,C,4,60.76,11/27/2023 11:55,Debit Card,Books,5.9
+55038,C,6,71.11,6/2/2023 08:16,Cash,Electronics,18.2
+55269,A,2,113.37,4/6/2024 20:31,Cash,Electronics,7.2
+55590,C,9,97.98,3/1/2024 04:12,Credit Card,Electronics,7.1
+55874,A,5,89.96,3/18/2024 21:27,Debit Card,Electronics,11.4
+56166,B,8,87.38,5/23/2023 06:18,Debit Card,Books,9.4
+56196,D,5,87.38,2/3/2024 20:34,Credit Card,Electronics,17.5
+56270,C,4,83.76,6/26/2023 10:15,PayPal,Books,12.9
+56389,A,7,68.59,12/11/2023 11:58,Cash,Home Decor,19.2
+56392,D,9,53.11,10/15/2023 05:39,Debit Card,Books,18.2
+56488,C,7,62.01,11/20/2023 22:23,Credit Card,Books,16.4
+56550,B,9,88.56,7/30/2023 09:18,Debit Card,Electronics,11.1
+56773,A,1,50.85,11/13/2023 04:06,Credit Card,Books,9.6
+57695,B,8,107.6,2/4/2024 02:45,PayPal,Electronics,20.4
+57875,C,7,21.76,2/23/2024 09:37,Cash,Home Decor,8.4
+58032,C,2,153.67,12/3/2023 20:43,Debit Card,Electronics,23.1
+58215,B,4,67.08,10/12/2023 19:47,Debit Card,Electronics,23.8
+58219,A,1,61.21,6/12/2023 21:48,Cash,Books,12.3
+58316,D,9,138.89,5/5/2023 11:59,Debit Card,Electronics,16.6
+59290,A,5,60.96,1/19/2024 23:11,Cash,Home Decor,1
+59355,C,3,120.47,8/20/2023 00:09,Debit Card,Electronics,24.6
+59450,C,9,79.99,9/28/2023 03:58,Credit Card,Electronics,19.2
+59453,C,8,66.58,1/27/2024 07:51,PayPal,Electronics,5.8
+59523,B,6,32.39,6/18/2023 21:29,PayPal,Books,15.6
+59610,A,2,84.21,11/29/2023 20:00,Credit Card,Books,3.6
+59631,D,4,27.84,3/12/2024 16:50,Cash,Home Decor,7.6
+59989,C,9,112.73,4/26/2024 00:43,Cash,Electronics,6.1
+60352,D,2,72.28,8/15/2023 18:22,Credit Card,Electronics,12.7
+60679,A,6,58.82,11/21/2023 22:18,PayPal,Books,3.3
+60934,A,2,58.48,4/27/2024 19:56,Debit Card,Books,2.4
+61320,B,5,96.66,12/21/2023 19:00,Credit Card,Electronics,11.6
+61659,A,2,86.84,1/18/2024 01:29,Credit Card,Home Decor,16.5
+62059,A,9,91.15,12/21/2023 16:02,Credit Card,Home Decor,8.3
+62267,B,8,95.18,5/8/2023 04:20,PayPal,Home Decor,16.5
+62519,C,5,44.27,4/21/2024 18:36,Credit Card,Books,8.7
+62783,C,8,44,7/1/2023 22:17,Credit Card,Electronics,9.9
+63338,A,6,35.16,8/4/2023 04:22,PayPal,Books,5.2
+63344,D,9,138.16,4/30/2023 01:16,Debit Card,Electronics,15.9
+63435,D,3,52.82,4/16/2024 05:45,Debit Card,Books,18.9
+63579,D,5,94.94,8/4/2023 04:26,Debit Card,Home Decor,17.2
+63925,B,3,85.07,6/7/2023 07:51,Debit Card,Electronics,24.8
+64245,A,3,44.93,4/1/2024 03:53,PayPal,Home Decor,1.3
+64357,D,2,68.09,12/7/2023 15:58,Credit Card,Electronics,23.3
+64386,A,3,142.92,3/13/2024 21:27,Credit Card,Electronics,16.9
+64905,C,3,67.96,6/29/2023 09:50,Credit Card,Electronics,24.5
+65240,A,7,110.98,1/12/2024 07:32,PayPal,Electronics,21.6
+65253,D,8,51.43,3/23/2024 06:00,Debit Card,Books,6.7
+65569,A,1,138.82,12/3/2023 11:17,Cash,Electronics,5.3
+65632,D,8,11,12/29/2023 05:07,PayPal,Electronics,19.7
+66457,A,6,93.05,7/18/2023 16:18,Credit Card,Electronics,8.3
+67256,A,7,87.98,6/15/2023 08:25,Debit Card,Home Decor,1.8
+68223,C,1,74.92,4/3/2024 20:13,PayPal,Books,8.1
+68506,D,5,37.33,11/7/2023 06:42,Cash,Books,15.1
+69083,A,5,48.88,4/23/2024 13:57,Credit Card,Home Decor,11.4
+69248,A,5,71.71,5/2/2023 10:59,Credit Card,Home Decor,1.4
+69384,B,9,65.12,1/31/2024 02:45,Cash,Books,7.2
+69485,B,5,31.49,1/9/2024 11:42,Credit Card,Books,17.4
+69699,C,6,109.94,4/17/2024 15:39,Debit Card,Electronics,23.8
+70193,A,9,153.89,3/28/2024 19:34,Cash,Electronics,6.9
+70399,C,1,48.91,9/23/2023 00:32,Credit Card,Home Decor,17.4
+70693,B,9,99.15,11/17/2023 13:14,Cash,Books,7.6
+70759,D,9,81,4/21/2024 13:02,PayPal,Home Decor,18.1
+71132,C,6,77.26,1/11/2024 14:56,Debit Card,Books,4.8
+71502,C,4,87.17,5/15/2023 10:19,Cash,Home Decor,10.5
+71749,A,1,64.9,7/13/2023 08:51,Credit Card,Electronics,14.4
+71926,C,1,88.99,4/15/2024 03:58,Debit Card,Home Decor,1.4
+72187,D,3,83.88,7/2/2023 07:35,Credit Card,Home Decor,15.8
+72217,A,2,56.44,3/17/2024 11:53,Debit Card,Books,12.2
+72349,D,7,,12/20/2023 16:12,Credit Card,Home Decor,5.9
+72797,B,3,,6/22/2023 15:53,PayPal,Home Decor,5.8
+73084,D,2,17.09,5/2/2023 02:11,Cash,Books,4.7
+73098,C,9,32,1/2/2024 16:43,Cash,Electronics,22.9
+73175,C,4,19.55,3/12/2024 23:04,PayPal,Home Decor,15.8
+74265,B,3,126.51,4/21/2024 13:23,Cash,Electronics,9.2
+74789,A,7,148.2,5/10/2023 16:22,Cash,Electronics,9.8
+74894,A,5,152.61,1/11/2024 22:48,Credit Card,Electronics,21.8
+75044,C,4,106.03,7/20/2023 02:54,Debit Card,Electronics,20.8
+75061,C,7,19.93,9/16/2023 07:29,Debit Card,Home Decor,17.1
+75266,A,7,66.18,4/13/2024 15:04,PayPal,Electronics,7
+75624,B,4,78.82,11/30/2023 06:48,Credit Card,Electronics,22.7
+75691,C,1,62.52,3/28/2024 06:34,Debit Card,Home Decor,2.6
+76217,D,4,64.67,3/31/2024 16:24,Cash,Books,19.3
+76358,B,2,80.47,6/19/2023 10:37,Credit Card,Books,14.5
+76576,C,2,79.65,3/11/2024 12:12,Debit Card,Books,0
+76682,C,7,64.15,3/20/2024 14:47,Cash,Home Decor,12.6
+77121,C,1,11.85,9/13/2023 07:12,Cash,Books,12.2
+77324,B,9,63.14,2/3/2024 00:36,Cash,Home Decor,1.2
+78307,B,2,33.08,4/24/2024 16:59,PayPal,Home Decor,13.4
+79327,D,5,24.9,12/18/2023 09:11,PayPal,Home Decor,17.7
+79460,A,7,98.18,1/8/2024 12:05,PayPal,Home Decor,18.2
+79587,D,2,98.31,2/7/2024 17:40,Debit Card,Home Decor,14.2
+80009,D,1,114.56,8/10/2023 12:15,Credit Card,Electronics,24.3
+80307,A,5,35.69,2/20/2024 13:29,PayPal,Home Decor,3.5
+80424,D,1,79.69,7/22/2023 05:06,Cash,Books,9.3
+80635,B,2,20.4,1/5/2024 17:11,Cash,Home Decor,4
+80917,A,9,92.31,11/16/2023 02:09,Cash,Electronics,21
+81317,C,6,52.38,10/31/2023 14:19,Credit Card,Home Decor,5.8
+81490,C,6,119.63,1/1/2024 23:52,Cash,Electronics,14.8
+81774,B,5,44.69,3/29/2024 21:34,Debit Card,Home Decor,9.7
+82422,D,7,58.94,9/4/2023 00:57,Debit Card,Home Decor,13.4
+83108,C,9,71.41,3/15/2024 09:20,PayPal,Home Decor,17.6
+83204,C,2,88,5/27/2023 06:58,PayPal,Books,8.7
+83403,C,2,132.51,4/6/2024 01:28,PayPal,Electronics,13.2
+83734,B,6,153.86,12/23/2023 18:59,PayPal,Electronics,5.5
+84136,A,1,144.23,12/13/2023 08:29,PayPal,Electronics,21.5
+84904,C,7,70.25,8/6/2023 19:05,PayPal,Books,2.4
+85291,A,5,109.79,9/24/2023 04:38,PayPal,Electronics,18.5
+86007,A,9,20.51,10/16/2023 05:02,Credit Card,Books,7
+86789,C,5,84.15,6/2/2023 20:17,Debit Card,Electronics,21.7
+87256,D,8,55.16,2/20/2024 05:56,PayPal,Home Decor,2.3
+87528,A,4,44.89,3/17/2024 13:18,Credit Card,Home Decor,18.9
+87555,C,4,43.85,10/15/2023 01:21,Debit Card,Home Decor,13.1
+87566,A,3,50.06,12/15/2023 09:09,PayPal,Books,9.5
+88004,D,7,83.99,3/21/2024 13:59,Debit Card,Home Decor,6.8
+88119,A,8,56.18,12/28/2023 22:07,PayPal,Books,11.4
+88304,C,6,91.65,1/2/2024 06:50,Cash,Electronics,8.3
+88346,A,6,126.78,5/25/2023 02:30,Debit Card,Electronics,24.5
+88606,C,9,93.19,11/25/2023 03:42,Debit Card,Electronics,9.4
+88804,C,1,47.96,1/5/2024 22:47,PayPal,Home Decor,3.7
+88944,A,6,75.33,3/25/2024 01:51,Credit Card,Books,14.7
+89106,A,2,126.44,10/5/2023 22:54,Cash,Electronics,13.1
+89130,B,2,40.99,10/1/2023 15:37,Credit Card,Home Decor,17.4
+90160,D,4,70.94,11/5/2023 07:27,PayPal,Books,13.7
+90525,D,4,68.59,6/23/2023 10:56,Credit Card,Home Decor,7.1
+90605,A,9,,6/21/2023 19:44,PayPal,Books,11.1
+91010,B,4,,11/1/2023 04:55,PayPal,Books,11.1
+91033,D,7,70.96,10/17/2023 03:02,Credit Card,Home Decor,2.3
+91082,C,1,92.56,9/2/2023 02:53,PayPal,Electronics,20.8
+91439,D,6,321,4/26/2024 13:07,PayPal,Electronics,10.9
+91543,D,3,63.04,9/5/2023 17:22,PayPal,Home Decor,13.5
+91646,B,3,49.76,11/24/2023 09:02,Cash,Home Decor,14.1
+91841,B,4,40.42,11/18/2023 19:31,Cash,Home Decor,14.6
+91865,A,2,67.11,8/19/2023 01:37,Cash,Electronics,17.4
+92855,C,8,70.25,9/2/2023 06:32,Debit Card,Electronics,21.6
+92957,C,7,131.65,6/17/2023 05:27,Cash,Electronics,12.8
+93226,A,9,104.65,1/22/2024 05:22,Credit Card,Electronics,12
+93253,A,9,73.21,1/21/2024 03:39,Credit Card,Home Decor,2.5
+93563,D,6,78.98,3/3/2024 16:07,Debit Card,Home Decor,18.3
+93627,A,5,82.34,11/7/2023 07:55,Credit Card,Books,17.2
+93933,A,1,13.24,5/29/2023 11:05,PayPal,Books,12
+94047,A,6,100,3/29/2024 18:32,Cash,Electronics,14.8
+94639,B,9,87.61,9/7/2023 21:46,Credit Card,Books,17.2
+94994,C,8,100.28,4/17/2024 19:33,Debit Card,Electronics,12.4
+95461,C,7,42.32,10/18/2023 14:40,Cash,Home Decor,4.6
+95791,C,8,89.66,3/16/2024 21:28,Debit Card,Electronics,5.4
+96112,C,6,93.75,12/19/2023 08:22,Credit Card,Electronics,12.2
+96643,B,8,75.12,12/21/2023 08:51,PayPal,Electronics,15.1
+98064,B,6,125.11,10/21/2023 13:21,PayPal,Electronics,15.3
+98436,A,5,77.77,3/6/2024 03:26,PayPal,Books,12.8
+98442,D,4,86.05,7/1/2023 11:13,PayPal,Electronics,12.6
+98528,D,9,132.78,6/29/2023 17:17,PayPal,Electronics,5.3
+98661,A,1,37.4,2/5/2024 03:42,Credit Card,Home Decor,4.2
+98735,C,3,25.26,6/6/2023 21:00,PayPal,Home Decor,18.4
+98776,C,9,76.45,2/21/2024 22:55,Cash,Electronics,9.8
+98927,C,8,114.27,1/15/2024 04:52,Credit Card,Electronics,8.4
+99076,A,5,131.94,12/16/2023 00:18,Cash,Electronics,17.5
+99487,D,8,51.17,2/17/2024 21:46,Debit Card,Books,7.3
+99844,B,9,112.1,2/5/2024 20:06,Debit Card,Electronics,10.9
+99971,C,3,28.75,10/10/2023 23:20,Debit Card,Home Decor,15.6
+100167,A,3,16.07,2/5/2024 03:51,Credit Card,Books,14.2
+100528,B,1,44.29,3/12/2024 05:57,Credit Card,Home Decor,9
+101357,C,7,75.47,4/10/2024 14:05,PayPal,Electronics,20.5
+101654,A,3,117.64,7/1/2023 12:23,Credit Card,Electronics,5.3
+101832,A,8,150.62,1/29/2024 03:25,PayPal,Electronics,23
+103074,A,4,46.49,8/10/2023 00:26,Debit Card,Books,10.3
+103570,D,4,77.53,7/28/2023 22:27,Cash,Books,14.8
+103674,A,8,143.04,5/6/2023 09:27,PayPal,Electronics,13.9
+103704,B,2,11.74,9/12/2023 19:04,Debit Card,Books,17.4
+104034,B,7,33.72,7/23/2023 14:10,Credit Card,Books,13.6
+104380,C,5,54.67,11/29/2023 11:11,Cash,Home Decor,4.1
+104414,D,1,44.65,9/1/2023 18:48,Cash,Books,10.2
+104562,C,3,141.48,3/2/2024 14:13,Cash,Electronics,19.2
+104613,B,4,144.99,4/8/2024 11:03,Debit Card,Electronics,17.9
+105638,C,5,74.95,7/6/2023 18:36,Debit Card,Electronics,13.8
+106136,C,5,31.11,6/1/2023 18:33,Debit Card,Books,8.9
+106307,D,9,40.05,12/9/2023 13:40,PayPal,Home Decor,2.5
+106405,C,2,51.69,8/18/2023 08:43,PayPal,Books,10
+106529,B,2,63.24,4/30/2023 12:53,Credit Card,Home Decor,13.4
+106643,D,6,74.26,7/13/2023 16:13,PayPal,Books,8.7
+106941,A,1,75.45,7/23/2023 14:24,Credit Card,Home Decor,8.5
+107127,B,9,37.43,2/23/2024 17:41,Debit Card,Books,3.1
+107469,C,3,91.77,2/3/2024 18:43,Cash,Home Decor,15.6
+107529,A,6,54.9,5/8/2023 05:28,Credit Card,Books,14.7
+108105,A,6,131.03,11/23/2023 07:11,Debit Card,Electronics,15.5
+108108,A,8,133.58,7/15/2023 06:43,Debit Card,Electronics,21
+108316,B,7,17.01,7/11/2023 10:52,Cash,Home Decor,19.8
+108376,D,6,88.58,11/16/2023 19:00,Debit Card,Books,12
+108503,C,2,132.19,2/23/2024 19:53,Debit Card,Electronics,13
+108521,A,3,57.55,8/29/2023 23:40,Cash,Home Decor,3.3
+108574,D,5,104.57,1/31/2024 05:12,Cash,Electronics,6.4
+108734,D,5,36.93,1/26/2024 05:59,Cash,Books,15.3
+108737,C,2,19.44,4/9/2024 14:41,Credit Card,Books,0.2
+108826,C,8,88.28,12/19/2023 23:59,Cash,Books,16.9
+108849,C,7,28.72,12/12/2023 16:59,Debit Card,Books,8.9
+109025,C,8,91.17,2/21/2024 14:04,Debit Card,Books,3.1
+109318,C,7,80.08,12/26/2023 12:32,Cash,Books,18.7
+109346,A,7,76.61,11/27/2023 02:04,Credit Card,Electronics,15.2
+109437,C,7,91.86,5/2/2023 19:46,Credit Card,Books,5.9
+109603,D,9,127.98,12/2/2023 03:56,Cash,Electronics,12.2
+110276,A,2,39.65,7/14/2023 18:21,Cash,Books,7
+110808,A,8,49.06,12/11/2023 09:58,PayPal,Books,4.2
+110987,C,2,23.97,12/5/2023 00:31,Cash,Home Decor,7.4
+111585,A,5,68.18,6/11/2023 15:04,Debit Card,Electronics,24
+112289,D,4,4.37,7/1/2023 18:37,Cash,Books,13.4
+112699,B,1,89.63,9/15/2023 11:29,Debit Card,Electronics,13.2
+113096,D,4,104.03,1/26/2024 13:20,Credit Card,Electronics,16
+113126,B,5,,1/22/2024 07:51,PayPal,Electronics,5.4
+113241,B,4,,8/18/2023 01:56,Debit Card,Home Decor,3.1
+113270,C,8,66.07,10/12/2023 09:05,Credit Card,Electronics,19.2
+113512,B,8,11.89,5/21/2023 20:45,Cash,Books,1.4
+114214,B,6,65.86,3/17/2024 12:39,Credit Card,Electronics,21.8
+114514,B,2,99.74,2/20/2024 21:45,Credit Card,Electronics,5.4
+114796,C,4,98.4,11/27/2023 16:19,Cash,Home Decor,13.6
+115212,D,2,42.02,4/17/2024 00:55,Cash,Home Decor,1.4
+115511,D,6,13.14,9/11/2023 09:15,PayPal,Books,15
+116000,A,6,13.84,5/26/2023 15:45,PayPal,Books,3.7
+116152,B,4,37.05,10/9/2023 19:29,Credit Card,Home Decor,10.4
+116379,D,1,81.79,12/6/2023 06:42,Debit Card,Books,8.5
+116401,B,2,39.42,8/5/2023 14:40,PayPal,Books,6.4
+116597,C,3,50.57,10/13/2023 22:52,Cash,Books,16.2
+116855,B,9,36,12/24/2023 22:56,Cash,Electronics,24.3
+116899,C,4,69.26,2/1/2024 14:07,Debit Card,Home Decor,13.1
+117037,D,4,51.39,1/25/2024 08:45,Cash,Home Decor,0.8
+117189,D,6,52.18,8/4/2023 17:35,PayPal,Books,8.4
+117652,A,1,92.9,1/10/2024 16:57,Debit Card,Home Decor,18.3
+118026,D,9,21.69,9/16/2023 00:57,Cash,Home Decor,1.4
+118047,D,6,64.16,2/23/2024 14:40,Debit Card,Electronics,12.3
+118085,A,8,99.02,4/2/2024 15:08,Debit Card,Electronics,23.8
+118144,B,4,77.31,6/26/2023 21:13,Debit Card,Books,0.2
+118216,C,9,28.08,5/13/2023 14:27,Credit Card,Home Decor,19.7
+118393,A,1,98.02,5/18/2023 17:55,PayPal,Books,0.3
+118509,B,8,24.21,11/25/2023 17:56,PayPal,Home Decor,6.9
+118745,D,8,46.88,2/22/2024 10:33,PayPal,Home Decor,7.7
+119063,D,2,73.22,6/24/2023 03:48,PayPal,Books,12.1
+119380,C,1,106.46,11/27/2023 18:52,Credit Card,Electronics,23
+119614,A,5,97.37,2/16/2024 20:36,Cash,Home Decor,15.9
+120177,D,3,190,3/23/2024 11:50,PayPal,Electronics,11
+120190,C,4,94.31,8/3/2023 18:36,PayPal,Electronics,24.5
+120205,A,5,43.89,3/23/2024 17:03,PayPal,Books,10.3
+120972,D,8,17.89,1/5/2024 20:57,Credit Card,Home Decor,1.9
+121166,C,9,117.78,8/13/2023 17:20,Debit Card,Electronics,14.3
+121174,D,8,43.33,9/19/2023 18:32,Credit Card,Home Decor,18.2
+121184,C,7,151.14,6/6/2023 09:37,Cash,Electronics,22.7
+121297,C,3,124.75,3/30/2024 00:10,Credit Card,Electronics,13.6
+121413,A,7,93.19,12/22/2023 11:38,Cash,Electronics,9
+121420,B,9,89.62,5/19/2023 18:09,Cash,Books,7.4
+121429,C,4,128.55,4/7/2024 04:24,PayPal,Electronics,17.8
+121947,C,2,70.56,9/30/2023 02:10,PayPal,Home Decor,17
+122422,B,5,54.68,4/9/2024 09:11,PayPal,Home Decor,4.4
+122521,B,3,73.84,10/16/2023 12:09,Credit Card,Electronics,6.9
+122720,C,9,119.84,10/23/2023 00:52,Credit Card,Electronics,5.6
+122825,C,3,48.43,6/27/2023 16:27,Cash,Home Decor,14.1
+123559,C,2,42.48,7/27/2023 06:46,Credit Card,Home Decor,19.9
+123777,A,1,121.89,2/5/2024 22:47,Debit Card,Electronics,6.8
+124402,B,3,67.11,2/7/2024 11:25,Debit Card,Home Decor,0.2
+125172,A,8,107.26,6/20/2023 02:57,Cash,Electronics,23.5
+125612,A,4,146.08,2/29/2024 08:55,Debit Card,Electronics,16.4
+126115,A,3,120.37,1/23/2024 15:05,Cash,Electronics,18.4
+126283,C,5,67.98,1/16/2024 18:15,Credit Card,Books,12.2
+126357,C,6,66.82,9/4/2023 04:18,Credit Card,Books,4.6
+126435,A,9,76.4,2/1/2024 07:31,Cash,Books,14.4
+127051,B,3,97.93,10/24/2023 08:04,Credit Card,Books,14.1
+127067,C,1,93.94,7/27/2023 06:47,Debit Card,Home Decor,1.7
+127104,B,3,87.51,2/21/2024 20:17,Credit Card,Electronics,5.1
+127541,B,3,78.88,3/2/2024 01:26,PayPal,Books,1.3
+127821,C,7,68.39,5/18/2023 10:32,Cash,Books,14.7
+127927,A,3,36.42,5/7/2023 20:14,PayPal,Books,10.9
+128099,C,3,74.09,10/15/2023 03:02,Credit Card,Books,1.1
+128123,C,2,93.27,8/6/2023 14:32,Cash,Home Decor,19.8
+128130,B,2,33.29,8/25/2023 07:23,Cash,Home Decor,0.8
+128171,A,5,19.13,11/17/2023 17:02,Credit Card,Books,5.8
+128354,C,3,114.05,4/21/2024 21:27,Cash,Electronics,17.3
+129552,C,1,73.43,1/2/2024 08:53,Debit Card,Electronics,22.5
+129593,A,2,62.29,10/10/2023 06:45,Debit Card,Books,8.8
+129973,C,5,43.01,12/5/2023 00:10,Debit Card,Books,10.3
+129974,B,4,57.55,9/19/2023 18:39,Debit Card,Home Decor,14.3
+130049,C,8,100.61,4/26/2024 06:25,PayPal,Electronics,18.5
+130148,A,6,84.47,8/3/2023 07:03,Debit Card,Electronics,24.6
+130340,D,6,132.79,8/6/2023 03:56,Debit Card,Electronics,19.5
+130540,A,7,34.68,7/8/2023 08:05,PayPal,Home Decor,1
+130838,A,9,81.09,11/11/2023 17:08,Debit Card,Home Decor,3.9
+131014,C,7,44.64,10/10/2023 07:12,Cash,Home Decor,4.7
+131312,C,2,99.76,11/6/2023 01:48,Cash,Electronics,10.6
+131328,B,4,44.48,6/2/2023 15:42,PayPal,Books,4.4
+131800,C,6,32.61,9/23/2023 00:45,Debit Card,Books,19.9
+132061,C,2,118.61,10/21/2023 04:42,Cash,Electronics,11.4
+132111,C,4,83.46,4/13/2024 12:40,Debit Card,Books,6.8
+132409,C,7,70.04,1/5/2024 11:00,Cash,Books,12.4
+132578,A,7,90.86,12/3/2023 10:28,PayPal,Home Decor,14.9
+132708,D,1,51.99,9/20/2023 21:47,Debit Card,Books,12.1
+132949,C,6,41.84,11/21/2023 10:38,Cash,Books,14
+133287,A,6,90.41,8/12/2023 10:32,Credit Card,Electronics,14.2
+134452,B,4,93.5,5/12/2023 06:35,Cash,Home Decor,17.4
+134527,D,1,50.19,4/11/2024 03:42,Credit Card,Home Decor,17.1
+135264,D,1,11.12,1/28/2024 15:25,PayPal,Books,10
+135572,B,2,117.85,2/22/2024 00:02,Credit Card,Electronics,6.4
+135944,A,8,134.57,10/30/2023 22:51,Credit Card,Electronics,23.7
+136414,C,9,122.13,4/14/2024 10:15,Credit Card,Electronics,5.5
+136596,C,8,27.81,2/23/2024 12:23,PayPal,Books,6.2
+136619,A,2,142.94,7/13/2023 15:31,Debit Card,Electronics,5.7
+136734,A,6,37.76,10/10/2023 01:37,Credit Card,Books,4.6
+136820,A,6,141.4,1/16/2024 03:12,Credit Card,Electronics,13
+137147,B,6,48.46,11/27/2023 09:54,Credit Card,Books,17.3
+137400,D,6,71.13,12/27/2023 14:50,Cash,Home Decor,9.3
+137886,C,2,118.68,9/3/2023 06:50,Credit Card,Electronics,12.3
+138122,A,8,57.53,1/29/2024 06:06,Credit Card,Home Decor,13.2
+138256,D,4,88.88,3/4/2024 09:46,Credit Card,Books,4.6
+138425,B,5,46.56,3/11/2024 15:32,Debit Card,Books,3.2
+138661,D,2,76.51,1/29/2024 03:43,Cash,Electronics,15.8
+138705,C,9,80.95,11/4/2023 21:39,Debit Card,Books,11.8
+138941,D,4,130.36,11/7/2023 19:34,Cash,Electronics,17.2
+139139,D,6,94.99,6/3/2023 12:37,Cash,Home Decor,14.5
+139295,B,3,75.92,7/20/2023 15:06,PayPal,Home Decor,3.6
+139514,D,1,71.52,8/8/2023 21:33,Debit Card,Books,19.8
+140026,D,3,13.25,4/19/2024 02:11,PayPal,Home Decor,9.2
+140319,B,1,48.66,9/24/2023 03:48,Cash,Books,6.1
+140414,B,2,132.46,10/8/2023 16:07,Debit Card,Electronics,24.6
+140471,B,2,43,6/20/2023 16:12,Credit Card,Electronics,21.5
+140492,A,7,81.97,2/20/2024 01:53,Cash,Home Decor,11.7
+140903,A,9,21.64,7/17/2023 08:01,Debit Card,Home Decor,16.7
+141252,C,6,51.36,10/21/2023 08:12,Debit Card,Home Decor,11.6
+141381,B,1,51.4,8/15/2023 00:08,Debit Card,Books,5.6
+141381,B,1,35.26,8/15/2023 00:08,Debit Card,Books,5.6
+141569,B,6,101.62,10/8/2023 00:15,Debit Card,Electronics,15.7
+141677,C,3,43.72,1/31/2024 12:05,Debit Card,Books,19.2
+141849,A,1,63.51,7/28/2023 09:42,Cash,Books,15.1
+141971,A,8,113.46,6/30/2023 10:55,Cash,Electronics,12.8
+142130,B,6,97.01,3/30/2024 23:13,Cash,Books,18.2
+142206,A,8,28.3,10/10/2023 01:26,Debit Card,Home Decor,18.8
+142282,A,3,124.24,6/24/2023 01:45,Cash,Electronics,23.7
+142499,B,9,142.78,5/8/2023 00:23,Credit Card,Electronics,5.9
+142945,B,9,73.22,12/5/2023 06:24,Debit Card,Home Decor,15.5
+143001,A,2,21.17,6/26/2023 09:23,PayPal,Home Decor,15.3
+143063,D,1,58.3,6/12/2023 09:17,Cash,Home Decor,7.9
+143090,A,3,68.01,11/27/2023 10:19,Cash,Electronics,6.1
+143412,A,1,66.71,2/11/2024 03:35,Debit Card,Electronics,14.2
+143606,B,3,76.91,6/26/2023 01:05,PayPal,Electronics,9.2
+144475,C,1,30.84,12/13/2023 22:43,Cash,Books,13.2
+144497,C,3,41.93,3/17/2024 10:45,PayPal,Home Decor,16.3
+144836,C,2,77.79,4/14/2024 08:50,Credit Card,Electronics,19.4
+145612,C,5,76.25,9/19/2023 06:07,Credit Card,Home Decor,4.6
+145840,B,8,12.77,12/23/2023 17:03,PayPal,Home Decor,6.1
+145964,B,3,27.63,4/10/2024 01:11,Debit Card,Home Decor,16.3
+146468,B,6,127.9,6/14/2023 05:49,Cash,Electronics,19
+146849,D,4,84.07,8/20/2023 10:46,Credit Card,Books,16.1
+147242,A,7,86.4,5/2/2023 15:38,Debit Card,Electronics,18.5
+147738,A,5,99.96,5/8/2023 00:37,Cash,Home Decor,4.7
+147853,C,4,71.5,6/24/2023 20:03,Cash,Home Decor,6.2
+148066,B,4,42.22,2/27/2024 03:53,Debit Card,Books,5.8
+148140,D,7,78.58,12/14/2023 16:04,Debit Card,Books,13.9
+148162,C,7,78.92,1/31/2024 09:38,Cash,Electronics,19.5
+148352,D,8,81.22,6/15/2023 08:16,Credit Card,Books,3.6
+148717,D,9,27.43,4/24/2024 09:11,Cash,Books,11.5
+148827,B,5,40.52,10/9/2023 09:53,Credit Card,Books,16.8
+149006,C,3,81.31,8/11/2023 02:15,Credit Card,Books,1.6
+149072,A,9,57.39,5/24/2023 10:06,Credit Card,Books,13.2
+149193,A,2,146.92,11/15/2023 19:32,PayPal,Electronics,16.2
+149351,A,9,72.7,7/4/2023 15:39,Debit Card,Books,15.8
+149471,B,4,80.43,1/3/2024 03:59,Cash,Home Decor,17.1
+149946,A,3,63.39,1/10/2024 01:51,Debit Card,Books,8
+150003,D,3,78.43,5/30/2023 04:06,Debit Card,Electronics,5.9
+150342,A,7,87.31,4/10/2024 19:34,Cash,Electronics,18.1
+150521,B,3,65.97,12/21/2023 20:12,Credit Card,Books,10.2
+150760,B,4,31.68,5/24/2023 04:28,Debit Card,Books,13.1
+151438,B,7,24.89,5/6/2023 23:06,Cash,Books,8.1
+153294,D,8,148.7,6/11/2023 01:00,Cash,Electronics,14.1
+154073,A,3,89.36,9/24/2023 07:42,PayPal,Electronics,5.3
+154468,A,6,62.39,11/15/2023 20:04,PayPal,Books,17.6
+154570,B,5,113.24,10/8/2023 09:26,Credit Card,Electronics,22.1
+154961,C,6,39.58,2/29/2024 11:34,Cash,Books,18.4
+155985,A,6,40.41,2/7/2024 09:56,PayPal,Home Decor,4.2
+156333,C,9,66.76,11/3/2023 21:43,Credit Card,Books,5.7
+156407,A,9,76.37,11/25/2023 09:48,Debit Card,Home Decor,11.4
+156691,A,9,65,11/22/2023 05:15,Credit Card,Books,7.6
+156747,C,6,33.01,6/21/2023 22:39,Cash,Books,18.2
+156827,C,8,42.85,5/15/2023 04:24,Credit Card,Home Decor,17.6
+156850,D,2,52.35,10/7/2023 15:17,PayPal,Home Decor,11.9
+157406,D,2,49.28,2/11/2024 07:42,PayPal,Books,6.5
+157801,A,1,72.5,10/30/2023 10:10,Credit Card,Electronics,23.2
+158441,C,3,71.79,3/21/2024 15:57,Cash,Electronics,13.6
+158615,D,5,57.98,5/28/2023 15:28,Credit Card,Books,6.8
+158720,A,9,92.56,1/7/2024 23:59,Debit Card,Electronics,16.3
+158888,D,7,72.49,5/11/2023 06:30,Credit Card,Books,11.2
+159055,C,6,99.4,8/18/2023 23:17,Debit Card,Home Decor,15.3
+159219,B,9,92.24,7/17/2023 12:16,Credit Card,Books,5.1
+159516,C,9,138.34,5/30/2023 10:24,Cash,Electronics,24.6
+159588,A,4,30.53,8/12/2023 03:35,Credit Card,Home Decor,4.6
+160876,A,1,55.96,11/21/2023 13:19,Credit Card,Books,14.4
+161131,A,8,144.46,6/8/2023 16:21,Cash,Electronics,11.7
+161274,A,9,115.08,12/9/2023 19:43,Debit Card,Electronics,20.5
+161510,A,3,11.31,4/24/2024 14:49,Cash,Home Decor,11.8
+161746,B,1,78.2,5/9/2023 03:52,Debit Card,Home Decor,19
+162280,C,5,37.32,2/28/2024 20:21,Credit Card,Home Decor,15.6
+162424,D,2,51.64,12/7/2023 23:08,Debit Card,Books,3.3
+162678,C,3,113.79,10/28/2023 06:51,Cash,Electronics,6.9
+162927,C,6,14.91,10/13/2023 11:06,Debit Card,Home Decor,6.5
+163532,D,5,37.47,1/6/2024 16:53,Cash,Books,18.6
+163724,C,5,16.29,9/3/2023 13:52,Debit Card,Books,13.1
+163790,A,9,80.2,11/26/2023 20:48,PayPal,Electronics,15.9
+163905,B,9,26.68,4/25/2024 16:49,Credit Card,Books,13.2
+164225,C,9,123.24,6/13/2023 03:46,Cash,Electronics,8.2
+164301,B,7,84.98,9/6/2023 09:50,Cash,Home Decor,12.8
+164554,B,1,17.81,2/6/2024 20:41,PayPal,Books,19.3
+164703,C,8,34.01,4/25/2024 18:13,PayPal,Home Decor,11.4
+164835,A,8,51.5,1/13/2024 03:21,Cash,Books,5.8
+164961,C,4,110.33,3/19/2024 17:26,Cash,Electronics,24.4
+165487,C,7,26.6,12/27/2023 14:02,PayPal,Books,17.5
+165550,A,3,81.5,1/2/2024 03:49,PayPal,Electronics,7.7
+165786,B,3,17.18,8/26/2023 14:58,Cash,Books,6.3
+166104,D,4,38.16,2/8/2024 02:40,PayPal,Books,3.2
+166320,B,3,81.26,7/4/2023 03:03,Debit Card,Electronics,9.7
+166970,D,9,94.59,6/29/2023 11:35,Cash,Electronics,7.5
+167486,B,4,34.17,12/15/2023 18:54,PayPal,Home Decor,15.6
+168246,D,5,29.45,12/27/2023 16:18,Cash,Books,1.2
+168261,B,8,95.39,1/2/2024 18:32,Debit Card,Books,14.6
+168360,D,4,64.15,5/28/2023 15:23,Debit Card,Electronics,11.5
+168376,C,8,69.09,7/20/2023 08:09,Debit Card,Home Decor,3.1
+168544,C,4,44.59,7/15/2023 09:45,Credit Card,Home Decor,4.4
+168850,C,9,37.51,8/8/2023 04:40,PayPal,Books,5.2
+168986,B,6,27.27,11/24/2023 07:07,Credit Card,Home Decor,17.8
+169245,B,9,56.79,9/25/2023 14:44,Debit Card,Home Decor,16.3
+169411,C,4,43.87,8/9/2023 23:46,Debit Card,Home Decor,9.7
+169557,B,7,111.95,5/7/2023 04:24,PayPal,Electronics,8.7
+170537,C,6,141.18,12/8/2023 14:00,Debit Card,Electronics,22
+170880,A,3,34.77,8/13/2023 12:30,Credit Card,Books,3.6
+171114,D,8,108.19,12/13/2023 01:08,Cash,Electronics,8.3
+171674,B,6,98.28,8/23/2023 13:35,PayPal,Books,6.7
+171885,B,1,15.92,11/17/2023 12:33,Debit Card,Home Decor,18.9
+172232,A,5,24.77,11/23/2023 10:47,PayPal,Books,7.6
+172644,C,2,123.18,4/30/2023 03:33,Cash,Electronics,11.7
+172722,D,1,11.27,2/9/2024 23:55,Credit Card,Books,15.6
+172861,D,2,83.9,10/20/2023 09:06,Debit Card,Books,19.7
+172943,A,1,80.19,9/9/2023 00:45,Credit Card,Electronics,22.7
+172986,C,1,118.3,10/13/2023 08:13,Debit Card,Electronics,16.4
+173277,D,8,99.31,8/26/2023 05:26,PayPal,Home Decor,15.3
+173636,B,8,65.82,4/2/2024 10:43,Credit Card,Books,1.4
+173931,B,9,69.28,10/6/2023 11:38,PayPal,Electronics,17
+174008,D,3,151.98,10/28/2023 11:53,Debit Card,Electronics,22.8
+175174,D,6,54.86,7/10/2023 19:28,Credit Card,Home Decor,3.1
+175504,C,9,54.17,11/28/2023 21:59,Cash,Books,11
+175519,A,9,71.92,6/21/2023 21:15,Cash,Home Decor,17.2
+175599,D,4,56.69,1/26/2024 15:09,Cash,Home Decor,18.5
+175708,C,9,68.51,12/6/2023 12:37,Cash,Electronics,23.6
+176085,B,6,97.75,2/15/2024 03:19,Debit Card,Books,13.4
+176748,B,5,148.51,9/10/2023 08:58,Debit Card,Electronics,22.5
+176917,A,3,67.59,7/8/2023 20:17,Cash,Electronics,14.4
+176942,D,5,67.27,9/13/2023 15:18,PayPal,Books,9.7
+176958,D,8,75.94,3/22/2024 16:22,Debit Card,Home Decor,15.6
+177039,A,6,48.74,4/19/2024 23:27,Credit Card,Home Decor,4.5
+177223,A,1,123.21,6/15/2023 06:06,Debit Card,Electronics,24.7
+177620,C,3,95.45,2/22/2024 04:33,PayPal,Electronics,8.6
+177735,C,1,101.87,12/29/2023 18:23,Debit Card,Electronics,19.4
+178060,C,1,92.69,1/13/2024 15:28,Credit Card,Books,0.5
+178243,C,9,74.72,6/25/2023 05:16,Debit Card,Home Decor,8.2
+178478,B,9,134.91,1/3/2024 19:50,Debit Card,Electronics,6.1
+178552,A,8,30.28,8/13/2023 13:10,PayPal,Books,12.3
+178610,A,9,89.99,12/24/2023 09:27,PayPal,Books,12.4
+178986,C,9,123.79,7/13/2023 23:34,Debit Card,Electronics,7.1
+179035,B,3,9.38,5/15/2023 14:14,Debit Card,Books,5.4
+179249,D,9,21.53,5/31/2023 09:43,Debit Card,Books,5.7
+179348,A,5,89.55,3/21/2024 22:15,Debit Card,Electronics,14.5
+179430,A,8,95.3,8/30/2023 20:50,PayPal,Electronics,20.1
+179797,C,3,121.54,6/6/2023 22:26,Cash,Electronics,16.7
+179833,B,8,52.01,6/3/2023 10:39,PayPal,Books,14.6
+179853,A,5,24,9/4/2023 16:07,PayPal,Books,2.5
+180190,A,1,76.41,6/15/2023 01:52,Cash,Home Decor,14.4
+180357,C,9,103.35,4/7/2024 10:17,Cash,Electronics,19.9
+180949,B,2,60.1,7/19/2023 19:04,Cash,Books,14.1
+181175,C,6,132.05,11/2/2023 19:03,Debit Card,Electronics,18.1
+181274,C,4,96.39,1/12/2024 02:23,PayPal,Home Decor,5.9
+181358,A,7,91.54,4/23/2024 23:49,PayPal,Home Decor,2.7
+181441,B,3,120.88,9/4/2023 16:55,Debit Card,Electronics,13.6
+182215,B,1,127.8,9/2/2023 22:32,Cash,Electronics,15.8
+182321,A,1,67.5,1/3/2024 22:21,PayPal,Home Decor,14.8
+182964,C,6,65.47,12/1/2023 16:22,Cash,Electronics,6.6
+183227,A,5,48.94,11/5/2023 03:58,Credit Card,Books,13.2
+184135,D,4,63.34,11/5/2023 01:46,Debit Card,Books,7.6
+184486,A,9,141.49,5/21/2023 08:56,Credit Card,Electronics,18.6
+184679,A,8,122.61,11/5/2023 13:49,Cash,Electronics,13.1
+184783,D,5,84.34,11/9/2023 18:07,Cash,Home Decor,16.2
+184903,C,5,126.56,1/13/2024 16:58,Cash,Electronics,16.7
+186154,B,7,55.32,8/29/2023 21:02,PayPal,Home Decor,9.3
+186777,D,1,67.75,11/23/2023 01:36,PayPal,Books,2.8
+188047,A,8,33.72,11/16/2023 14:10,Debit Card,Books,8.1
+188125,C,1,120.17,12/26/2023 19:44,Debit Card,Electronics,22.9
+188146,D,7,16.92,11/16/2023 22:13,Credit Card,Books,18.1
+188339,B,8,26.5,7/16/2023 16:52,Cash,Books,14.6
+189137,B,8,77.73,8/21/2023 02:56,Debit Card,Books,1.9
+189379,D,2,79.77,7/15/2023 06:52,Debit Card,Electronics,5.4
+190156,B,3,32.57,2/14/2024 06:50,Debit Card,Home Decor,2.8
+190247,B,5,88.84,4/7/2024 07:37,PayPal,Electronics,16.6
+190461,C,5,32.15,9/17/2023 15:14,Credit Card,Books,18.8
+190517,B,9,70.08,2/17/2024 13:54,Debit Card,Books,5.8
+190594,C,1,92.67,1/3/2024 11:33,Cash,Electronics,9.1
+190683,B,2,30.45,7/30/2023 18:39,Credit Card,Home Decor,6.4
+190793,A,1,54,6/7/2023 00:45,Credit Card,Electronics,21
+191118,A,3,92.27,5/20/2023 05:48,Cash,Home Decor,14.7
+191380,D,3,80.86,10/29/2023 21:35,Debit Card,Books,16.6
+191433,C,1,69.67,12/5/2023 21:54,Cash,Electronics,12.5
+191970,C,1,55.97,10/22/2023 12:16,Cash,Books,17.5
+192269,A,2,68.76,5/11/2023 11:13,Cash,Home Decor,1.8
+192476,D,8,48.53,2/28/2024 08:09,Credit Card,Books,13.3
+192560,D,5,98,10/12/2023 04:55,Credit Card,Books,15.8
+192757,C,5,25.86,2/13/2024 03:05,Cash,Books,17.5
+192829,C,4,74.07,9/18/2023 14:52,Debit Card,Books,10.7
+192871,B,4,60.23,5/28/2023 22:01,Debit Card,Books,16.5
+192892,D,6,104.42,4/20/2024 16:06,Credit Card,Electronics,11
+193054,B,6,23.18,7/6/2023 09:44,Credit Card,Home Decor,19.5
+193257,D,9,81.69,9/20/2023 16:27,PayPal,Electronics,12.1
+193610,D,7,25.55,7/8/2023 16:58,Debit Card,Books,11
+194266,A,7,134.89,8/30/2023 04:46,PayPal,Electronics,6.9
+194502,C,4,116.68,7/22/2023 06:06,Debit Card,Electronics,6.8
+194699,D,5,141.56,9/23/2023 13:17,Cash,Electronics,14.3
+195094,C,7,95.92,2/11/2024 02:22,Cash,Electronics,8.7
+195096,D,9,75.03,2/3/2024 01:43,Debit Card,Books,20
+195384,C,3,91.8,1/6/2024 16:18,Credit Card,Electronics,21.8
+195430,D,3,117.71,5/11/2023 17:04,Cash,Electronics,11.9
+195716,D,3,92.51,9/23/2023 13:56,Debit Card,Books,4.6
+195771,C,7,97.57,9/1/2023 17:58,PayPal,Electronics,9.8
+195783,B,1,59.94,5/6/2023 02:20,Debit Card,Books,19.3
+195827,B,4,58.1,2/26/2024 13:27,Debit Card,Home Decor,16.6
+196167,C,5,14.31,4/14/2024 11:25,PayPal,Books,11.1
+196483,B,1,75.29,2/11/2024 07:09,Credit Card,Books,12.7
+196515,B,3,68.23,6/4/2023 21:10,Debit Card,Electronics,20.5
+196620,B,8,54.27,12/10/2023 21:07,Debit Card,Books,11.9
+196650,D,9,45.35,3/24/2024 04:03,Cash,Home Decor,13.7
+196794,B,9,99.82,8/30/2023 09:59,Cash,Electronics,5.2
+197578,B,8,97.59,8/3/2023 06:30,Cash,Books,4.9
+197685,B,1,76.76,8/29/2023 16:24,Credit Card,Home Decor,7.6
+198343,B,9,122.48,1/8/2024 15:27,PayPal,Electronics,23
+198503,D,3,60.62,10/3/2023 21:42,Cash,Home Decor,11.4
+198983,A,9,26.88,10/2/2023 11:01,Cash,Home Decor,1.4
+199190,A,7,140.03,3/12/2024 20:59,PayPal,Electronics,14.4
+199509,C,7,91.51,6/28/2023 04:33,Debit Card,Books,8.3
+199535,C,5,76.31,5/10/2023 14:09,Cash,Home Decor,16.3
+199713,D,2,37.58,10/24/2023 07:17,Debit Card,Home Decor,18.4
+200297,A,5,86.38,7/14/2023 06:42,Debit Card,Home Decor,12.8
+200828,C,1,85.24,2/2/2024 10:24,PayPal,Electronics,17
+201269,C,7,11.66,5/3/2023 14:06,PayPal,Books,13.5
+201549,C,4,108.75,5/3/2023 15:19,Credit Card,Electronics,19.7
+201856,D,6,21.12,2/3/2024 04:11,Credit Card,Home Decor,16.1
+201858,A,6,95.72,5/24/2023 09:51,PayPal,Home Decor,0.9
+201980,B,3,17.63,6/30/2023 03:31,Debit Card,Home Decor,16.3
+202066,C,1,80.78,4/16/2024 22:33,Credit Card,Home Decor,4.9
+202072,C,6,71.73,9/25/2023 21:30,Debit Card,Electronics,18.5
+202192,B,9,31.42,4/1/2024 06:40,Credit Card,Books,10.1
+202990,D,6,56.18,8/18/2023 13:30,Cash,Home Decor,12.5
+203430,A,3,28.67,9/1/2023 22:43,Credit Card,Books,2.2
+203520,A,3,83.27,12/24/2023 21:40,Credit Card,Books,16.2
+203777,B,8,41.89,6/27/2023 17:05,Credit Card,Books,6.9
+204392,D,7,2.82,10/24/2023 09:06,Cash,Books,5.5
+204396,A,8,56.67,6/23/2023 14:49,Credit Card,Books,0.2
+204533,A,1,144.6,11/5/2023 20:43,Debit Card,Electronics,22.6
+204911,D,4,17.56,2/4/2024 21:55,Cash,Home Decor,8.3
+205177,D,6,80.09,7/18/2023 12:17,Cash,Home Decor,15.7
+205724,D,6,129.98,1/30/2024 06:21,PayPal,Electronics,12.6
+206597,C,3,64.18,8/14/2023 20:44,Credit Card,Electronics,24.8
+207092,A,9,114.12,3/1/2024 11:35,PayPal,Electronics,13.8
+207833,D,3,122.84,7/21/2023 19:56,Cash,Electronics,10.1
+208169,B,1,67.68,7/4/2023 18:23,Cash,Books,3.9
+208400,C,6,65.32,6/30/2023 01:50,Cash,Electronics,14.9
+209363,A,8,13.26,11/7/2023 00:47,Credit Card,Books,2.2
+209567,B,7,119.59,10/27/2023 00:34,PayPal,Electronics,14.8
+209750,D,5,70.09,2/25/2024 11:53,Debit Card,Books,17.6
+209873,C,3,75.36,1/10/2024 16:48,Credit Card,Home Decor,17.6
+210315,C,7,136.55,11/15/2023 21:45,Cash,Electronics,12.4
+210317,D,1,77.6,6/11/2023 23:12,Cash,Books,1.7
+210520,B,2,87.02,4/17/2024 09:25,Credit Card,Electronics,24.5
+211165,A,8,66.06,7/2/2023 15:21,Debit Card,Electronics,11.2
+211248,A,3,111.19,3/9/2024 00:20,Debit Card,Electronics,22.1
+211688,A,2,113.94,9/24/2023 02:57,Cash,Electronics,24.8
+211708,A,6,61.14,4/30/2023 10:40,Credit Card,Books,9.8
+212424,A,2,37.91,8/29/2023 04:49,Debit Card,Books,1.4
+212526,B,6,50.23,7/18/2023 02:17,Credit Card,Books,12.6
+212585,A,4,37.13,10/16/2023 04:16,PayPal,Books,5.4
+212606,A,7,62.44,2/28/2024 16:51,Debit Card,Home Decor,9.9
+212726,A,3,16.16,6/5/2023 05:22,PayPal,Books,4.6
+212806,C,5,128.91,9/21/2023 07:47,PayPal,Electronics,11.2
+212963,C,5,51.24,3/5/2024 20:00,Credit Card,Books,3.9
+213167,C,9,25.17,8/31/2023 21:54,Credit Card,Home Decor,17.6
+213452,D,9,80.09,1/6/2024 13:34,Credit Card,Electronics,9.1
+213697,D,9,97.26,10/6/2023 17:01,Cash,Books,7
+214155,D,9,41.13,9/12/2023 11:55,Credit Card,Home Decor,3.2
+214275,B,6,150.61,11/18/2023 01:03,PayPal,Electronics,18.8
+214409,B,6,76.43,9/1/2023 14:55,Debit Card,Electronics,5.9
+214533,A,6,107.57,3/9/2024 14:56,Credit Card,Electronics,16.8
+214841,C,9,107.57,1/16/2024 03:43,Credit Card,Electronics,12.1
+214903,A,5,76.8,10/22/2023 09:33,Cash,Home Decor,13.4
+215352,B,5,127.54,12/4/2023 00:55,PayPal,Electronics,10
+215508,D,9,64.15,11/2/2023 00:02,Cash,Books,3
+216454,D,6,95.26,9/1/2023 05:04,Credit Card,Books,8.7
+217376,B,7,66.74,10/7/2023 10:16,Debit Card,Electronics,6
+217478,D,9,136.22,5/24/2023 09:31,Credit Card,Electronics,14.1
+217905,D,6,84.53,1/12/2024 22:12,Cash,Books,8.5
+218238,B,7,87.76,3/27/2024 14:59,Cash,Electronics,23.1
+218306,C,7,71.48,11/29/2023 04:13,Cash,Electronics,14.9
+218953,B,8,28.39,10/27/2023 03:44,Debit Card,Books,1.7
+218961,A,2,127.79,9/20/2023 12:08,Debit Card,Electronics,10.7
+219282,B,9,52.24,12/13/2023 20:16,Credit Card,Home Decor,1.5
+219393,D,5,143.33,6/10/2023 09:31,Cash,Electronics,21.8
+220007,A,1,71.87,4/10/2024 08:10,PayPal,Books,0.5
+220702,B,5,92.17,1/5/2024 04:40,Credit Card,Electronics,14.6
+220737,D,8,44.83,2/24/2024 12:12,Cash,Books,13
+221316,B,1,79.47,8/12/2023 17:37,Debit Card,Home Decor,4.2
+222128,C,9,65.93,3/15/2024 23:31,Cash,Electronics,7.4
+222227,A,5,78.23,2/26/2024 12:19,Debit Card,Home Decor,19.1
+222418,C,4,93.85,8/14/2023 08:46,PayPal,Home Decor,12.9
+223054,A,6,79.8,10/8/2023 05:37,Credit Card,Home Decor,2.6
+223167,B,4,81.25,7/20/2023 17:22,Credit Card,Electronics,16.5
+224106,C,6,57.68,11/7/2023 20:26,Credit Card,Books,1.8
+224124,B,2,22.87,6/23/2023 16:11,Debit Card,Books,11.6
+224535,A,8,40.65,3/20/2024 01:23,Cash,Home Decor,11.4
+224920,B,9,78.6,1/20/2024 23:28,Credit Card,Electronics,10.9
+224977,D,6,75.51,5/22/2023 02:32,Cash,Books,14.9
+225214,A,7,77.36,7/16/2023 05:03,Credit Card,Books,11.6
+226093,A,4,53.12,10/17/2023 05:25,Debit Card,Home Decor,15.1
+226436,B,7,25.42,5/3/2023 18:43,Credit Card,Home Decor,13.5
+227410,D,4,140.57,11/22/2023 16:05,Cash,Electronics,18.5
+227500,D,6,7.38,2/22/2024 12:05,Debit Card,Books,4.8
+227674,D,9,15.31,12/24/2023 11:48,Cash,Books,16
+227716,C,3,15.05,2/21/2024 10:59,PayPal,Home Decor,10.7
+227930,B,5,57.64,9/14/2023 02:19,PayPal,Home Decor,13.8
+228102,A,6,68.32,3/15/2024 23:17,Debit Card,Books,4.8
+228232,B,9,148.66,2/1/2024 18:41,Cash,Electronics,7.1
+228270,B,5,114.55,4/10/2024 05:33,Debit Card,Electronics,24.9
+228331,C,5,125.5,9/16/2023 03:23,Debit Card,Electronics,9.5
+228566,A,4,48.82,2/15/2024 22:22,Cash,Books,18.5
+228911,A,5,59.18,3/4/2024 07:26,PayPal,Books,10.7
+229209,B,7,74.61,5/6/2023 19:02,Credit Card,Electronics,22.8
+229356,C,3,85.87,9/10/2023 23:53,Cash,Home Decor,18.2
+229535,A,3,64.33,2/14/2024 18:46,Cash,Electronics,6.8
+229806,D,7,31.54,10/22/2023 08:28,Credit Card,Home Decor,4.8
+229907,D,8,79.83,4/3/2024 18:57,PayPal,Electronics,7
+230081,B,1,12.37,7/22/2023 10:25,PayPal,Books,14.4
+230280,A,1,29.22,1/12/2024 11:57,Credit Card,Books,15.6
+230559,C,6,22.35,5/11/2023 21:41,Cash,Home Decor,13.4
+230862,A,6,68.06,10/16/2023 06:35,Debit Card,Home Decor,15.9
+231017,A,9,147.07,10/20/2023 17:25,Debit Card,Electronics,20.9
+231223,B,3,84.8,10/4/2023 06:21,PayPal,Home Decor,17.5
+231499,D,6,80.49,12/9/2023 08:12,Debit Card,Electronics,6.5
+231583,C,4,122.46,10/12/2023 20:00,PayPal,Electronics,11.1
+231684,B,7,61.69,1/10/2024 14:55,Credit Card,Home Decor,19.6
+231815,A,1,116.91,6/26/2023 02:18,PayPal,Electronics,9.8
+232234,B,6,86.18,5/26/2023 18:47,PayPal,Books,13.5
+232381,D,2,69.08,3/11/2024 09:37,Credit Card,Home Decor,9.5
+232505,C,6,122.75,5/2/2023 14:17,Credit Card,Electronics,7.3
+232632,D,2,88.56,8/12/2023 02:00,Credit Card,Home Decor,12.8
+232992,D,2,93.14,1/2/2024 16:49,Debit Card,Home Decor,3
+233117,D,2,44.55,4/8/2024 12:57,PayPal,Home Decor,12.3
+233520,D,4,83.72,5/14/2023 06:38,Debit Card,Home Decor,1.9
+233848,C,3,60.74,8/21/2023 22:13,Debit Card,Home Decor,13.5
+233945,A,8,131.68,5/15/2023 17:54,Debit Card,Electronics,14.8
+234117,B,3,98.47,7/10/2023 04:12,Credit Card,Electronics,20.7
+234547,C,2,78.55,4/27/2024 19:55,PayPal,Home Decor,14.4
+234821,B,2,36.17,4/15/2024 01:15,Credit Card,Home Decor,3
+234931,C,9,20.28,7/23/2023 23:05,Cash,Books,10.6
+235025,A,2,73.86,5/21/2023 21:05,PayPal,Books,5.2
+235885,A,6,38.46,2/17/2024 17:41,Debit Card,Books,0.9
+236756,B,1,113.02,3/11/2024 00:22,Debit Card,Electronics,13.8
+236873,C,1,28.84,9/26/2023 11:32,Debit Card,Home Decor,
+236873,C,1,28.84,9/26/2023 11:32,Debit Card,Home Decor,
+237097,D,2,127.17,6/23/2023 04:37,Credit Card,Electronics,6.9
+237141,B,9,7.61,10/20/2023 16:33,Credit Card,Books,9.2
+237145,D,5,81.09,5/11/2023 05:18,PayPal,Books,6.9
+237379,A,2,95.39,8/31/2023 09:13,Cash,Home Decor,7.2
+237719,D,9,80.2,11/11/2023 08:01,Debit Card,Home Decor,12.1
+237878,A,3,76.19,6/21/2023 19:43,Debit Card,Books,3.2
+238088,A,1,71.65,12/18/2023 00:06,Credit Card,Home Decor,5.7
+238452,D,1,108.45,6/1/2023 05:53,PayPal,Electronics,7
+239362,C,1,34.89,8/1/2023 00:33,Cash,Books,8.7
+239679,C,6,102.19,9/16/2023 20:38,Credit Card,Electronics,13.2
+239704,C,3,109.51,5/20/2023 02:31,Credit Card,Electronics,6.7
+239774,B,1,134.33,5/8/2023 10:37,Debit Card,Electronics,17.2
+239826,C,8,54.96,5/24/2023 10:36,Credit Card,Home Decor,12.2
+240169,D,6,28.95,4/7/2024 05:02,PayPal,Home Decor,15.6
+240328,D,5,53.75,2/26/2024 22:50,Debit Card,Books,3.3
+240404,C,5,55.18,11/10/2023 13:04,PayPal,Books,19.1
+240616,B,3,36.32,9/21/2023 03:30,Cash,Books,13.6
+240857,B,6,13.25,10/8/2023 06:08,PayPal,Home Decor,14.3
+241181,C,4,142.79,2/17/2024 05:18,Credit Card,Electronics,11.8
+241273,D,2,102.15,3/30/2024 15:56,Credit Card,Electronics,13.1
+241405,A,7,25.61,9/17/2023 05:00,PayPal,Books,0.8
+241698,B,4,23.58,12/27/2023 08:05,PayPal,Home Decor,5
+241973,C,9,93.12,3/21/2024 12:24,Debit Card,Home Decor,6.1
+242421,D,8,43.84,3/18/2024 18:39,Debit Card,Books,18.7
+244066,C,6,109.02,11/5/2023 21:42,PayPal,Electronics,19
+244967,A,5,31.55,2/3/2024 16:50,Credit Card,Home Decor,2.2
+244980,A,1,61.28,12/6/2023 11:18,Debit Card,Books,7.9
+245152,A,5,40.23,11/11/2023 11:13,PayPal,Home Decor,18.3
+246231,B,2,45,4/28/2024 21:20,Credit Card,Electronics,11.9
+246637,A,7,79.67,12/12/2023 05:25,PayPal,Electronics,11.6
+246871,A,2,76.79,5/11/2023 10:39,Credit Card,Electronics,16.2
+246995,C,9,73.46,1/7/2024 12:29,Cash,Books,11.6
+247026,B,1,90.85,9/17/2023 11:54,Cash,Books,16.6
+247351,A,9,67.94,3/1/2024 01:40,PayPal,Electronics,14.7
+248078,A,3,4.56,5/14/2023 05:33,Credit Card,Books,17.3
+248238,B,5,27.73,3/4/2024 03:16,PayPal,Books,17.7
+248692,C,1,91.6,11/29/2023 01:29,PayPal,Electronics,20.3
+249264,B,8,151.41,2/11/2024 04:52,Debit Card,Electronics,12
+249307,D,8,131.8,10/21/2023 23:20,PayPal,Electronics,15.3
+249897,C,9,60.6,9/24/2023 09:53,Cash,Books,6.9
+250763,D,9,81.83,9/8/2023 16:22,Credit Card,Books,10.9
+250851,C,9,66.67,5/17/2023 12:02,Cash,Books,7.7
+251642,A,3,43.7,9/3/2023 13:42,Credit Card,Books,0
+251910,C,2,69.55,2/3/2024 06:00,Cash,Books,15.4
+252049,B,6,81.17,9/8/2023 04:20,Credit Card,Books,14.3
+252107,B,8,92.45,4/24/2024 10:57,PayPal,Books,8.8
+252212,D,3,99.02,3/31/2024 13:31,Cash,Home Decor,10.9
+252410,B,1,34.55,5/15/2023 14:55,Cash,Books,18.1
+252815,C,5,64.71,11/10/2023 15:42,Cash,Electronics,6.4
+252869,C,8,90.11,4/1/2024 00:12,Credit Card,Home Decor,19.7
+253137,B,2,55.43,4/20/2024 10:57,Cash,Books,5
+253369,B,8,18.92,6/10/2023 02:46,Cash,Home Decor,0.6
+253831,D,3,83.32,8/28/2023 16:58,Credit Card,Home Decor,17
+254206,A,6,80.93,2/14/2024 23:43,PayPal,Electronics,8.2
+254297,D,8,78.38,12/24/2023 03:15,Debit Card,Books,18
+254443,C,5,63.89,2/15/2024 10:07,Credit Card,Home Decor,3.1
+254489,C,6,101.69,10/21/2023 04:55,Credit Card,Electronics,5
+254660,A,4,133.82,4/6/2024 15:22,Cash,Electronics,12.6
+255294,D,9,89.98,3/17/2024 00:59,Cash,Electronics,8.7
+255651,A,2,12.47,1/28/2024 09:21,Debit Card,Home Decor,4
+256248,A,7,104.23,4/8/2024 06:17,Credit Card,Electronics,22.5
+256865,D,4,29.13,12/5/2023 03:57,PayPal,Books,1.1
+256914,D,7,124.22,1/29/2024 22:25,Debit Card,Electronics,18.5
+257071,A,3,4.26,9/21/2023 13:42,PayPal,Books,9.7
+257127,D,8,41.69,5/15/2023 10:40,PayPal,Books,15
+257162,D,7,28.72,3/25/2024 01:04,Cash,Books,7.2
+257511,D,7,34.34,12/8/2023 00:38,Debit Card,Home Decor,4.1
+257568,A,2,12.97,5/17/2023 11:27,PayPal,Home Decor,16.2
+257737,C,7,31.87,4/4/2024 09:22,PayPal,Books,19.3
+257835,B,1,87.67,8/25/2023 05:05,Cash,Home Decor,14.1
+257958,B,3,41.87,9/19/2023 03:04,Debit Card,Clothing,15.2
+258052,D,4,46.47,10/25/2023 20:21,Debit Card,Clothing,5.5
+258061,B,9,63.32,9/15/2023 04:11,Credit Card,Clothing,4.1
+258201,C,3,142.75,8/17/2023 16:44,Credit Card,Electronics,9.7
+258633,C,9,12.78,2/27/2024 08:01,Credit Card,Books,0.1
+258905,D,4,69.49,11/17/2023 06:21,Debit Card,Books,18.4
+259052,A,9,11.24,11/25/2023 05:15,Debit Card,Home Decor,17.1
+259185,A,4,151.1,6/5/2023 08:04,Debit Card,Electronics,5.6
+259480,B,9,74.85,9/13/2023 21:00,Credit Card,Clothing,6.7
+259487,C,8,61.51,6/8/2023 10:52,Cash,Clothing,12.3
+259852,C,3,90.18,2/13/2024 22:45,Debit Card,Home Decor,7.8
+260256,A,7,78.52,8/4/2023 11:51,Cash,Home Decor,7.3
+260465,C,1,40.8,10/14/2023 09:02,PayPal,Books,1.2
+261103,A,6,63.46,11/24/2023 06:24,Debit Card,Books,3.9
+261536,A,6,26.52,12/17/2023 05:27,Debit Card,Books,1.3
+261568,A,4,91.84,4/20/2024 17:43,PayPal,Books,1.7
+261891,D,2,53.94,4/17/2024 07:50,PayPal,Books,4.3
+261954,D,8,38.72,12/5/2023 08:46,Cash,Home Decor,15.1
+262056,B,5,88.88,5/20/2023 00:21,PayPal,Books,6.7
+262174,A,6,79.91,10/14/2023 14:19,Debit Card,Clothing,18.1
+262209,A,9,102.88,9/25/2023 12:54,Credit Card,Electronics,24.1
+262272,A,9,31.84,11/22/2023 05:22,Debit Card,Books,15.8
+262336,B,8,17.17,8/17/2023 14:36,PayPal,Clothing,1.9
+262553,D,3,11.2,4/5/2024 11:00,PayPal,Clothing,9.9
+262770,C,1,132.41,3/19/2024 17:23,PayPal,Electronics,7.9
+263009,B,8,99.87,2/8/2024 06:42,Cash,Books,5.3
+263293,D,1,85.1,5/1/2023 04:14,Cash,Home Decor,17.3
+263388,D,6,149.45,4/13/2024 05:15,Debit Card,Electronics,23.2
+263411,B,3,90.16,7/3/2023 12:42,Credit Card,Books,15
+263767,B,6,66.66,10/13/2023 05:39,Credit Card,Home Decor,9.9
+264019,D,4,79.87,6/3/2023 21:20,Cash,Electronics,9.1
+264050,A,4,27.92,7/15/2023 19:23,Credit Card,Clothing,11
+264061,B,2,67.82,6/18/2023 19:26,PayPal,Home Decor,4.2
+264269,C,5,24.61,9/6/2023 20:50,Debit Card,Books,1.3
+264470,B,3,30.34,5/30/2023 10:20,Credit Card,Clothing,14.1
+264661,D,8,130.61,11/20/2023 18:29,Cash,Electronics,20.5
+265143,B,4,58.34,10/4/2023 13:44,PayPal,Clothing,0.4
+265461,C,1,94.09,2/13/2024 01:02,Cash,Home Decor,11.4
+265539,C,2,66.51,10/20/2023 11:44,PayPal,Electronics,23.8
+265999,C,3,17.68,4/6/2024 21:58,Debit Card,Books,14.1
+266034,B,2,117.03,9/24/2023 01:02,Cash,Electronics,15.5
+266070,D,5,76.58,7/19/2023 05:24,Credit Card,Home Decor,12.7
+266305,D,3,69.27,12/10/2023 19:41,Credit Card,Clothing,12.8
+266323,A,5,85.66,3/25/2024 16:05,Credit Card,Books,13.1
+266491,C,8,98.79,9/25/2023 04:38,Debit Card,Books,14.2
+266885,C,4,11.06,11/24/2023 13:43,Cash,Books,1.4
+266980,B,2,120.14,8/17/2023 14:51,PayPal,Electronics,16.4
+268031,C,3,111,12/1/2023 17:31,PayPal,Electronics,12.1
+268076,C,9,13.01,6/19/2023 00:55,Debit Card,Books,13.3
+268207,D,8,12.33,3/11/2024 09:34,Debit Card,Clothing,9.4
+268257,D,2,25.53,10/20/2023 14:55,Debit Card,Clothing,4.2
+268443,A,4,41.18,6/15/2023 22:58,Credit Card,Books,0.6
+268713,D,7,50.78,8/31/2023 08:43,Cash,Books,2
+269020,A,1,82.59,3/4/2024 12:06,Credit Card,Books,14.5
+269227,A,4,78.27,1/23/2024 12:34,PayPal,Books,11.8
+269448,A,4,84.01,8/14/2023 02:07,Debit Card,Electronics,20.9
+269482,B,5,12.29,7/4/2023 20:50,Credit Card,Clothing,4.6
+269525,D,4,115.63,1/9/2024 20:04,Debit Card,Electronics,9.4
+269677,C,3,70.48,3/21/2024 08:30,Debit Card,Clothing,13.7
+269831,B,9,55.51,11/2/2023 23:05,Debit Card,Books,3.3
+270167,C,3,131.87,4/21/2024 18:17,Cash,Electronics,6.4
+270428,B,3,61.23,9/15/2023 04:55,Cash,Home Decor,5
+270534,D,5,17.64,9/5/2023 02:06,PayPal,Clothing,5.1
+270660,D,8,23.88,12/28/2023 19:31,Cash,Books,2.7
+271379,D,6,75.3,2/1/2024 02:35,PayPal,Clothing,18.3
+271420,C,4,86.02,7/6/2023 13:50,Debit Card,Electronics,11.7
+271460,B,8,39.71,11/5/2023 09:04,Cash,Home Decor,9.2
+271518,C,9,49.84,6/25/2023 20:17,Debit Card,Home Decor,4.5
+271564,C,4,42.88,8/15/2023 16:21,Debit Card,Books,17.9
+271582,D,3,4.47,5/19/2023 09:29,Debit Card,Clothing,12.6
+271723,A,6,116.09,1/24/2024 01:30,PayPal,Electronics,22.5
+272222,C,8,43.28,5/2/2023 20:47,PayPal,Home Decor,19.6
+272293,C,5,43.75,9/15/2023 01:26,PayPal,Books,14
+272585,D,6,61.87,12/9/2023 08:17,Cash,Clothing,3.2
+272974,B,2,89.02,5/4/2023 02:15,Debit Card,Home Decor,7.5
+273092,A,7,151.6,1/1/2024 00:44,PayPal,Electronics,7.7
+273220,D,4,43.09,11/29/2023 00:45,PayPal,Home Decor,3.2
+273552,D,4,26.84,1/19/2024 01:42,Cash,Books,9.3
+273911,A,4,27.53,10/27/2023 22:32,Cash,Clothing,12.7
+274053,A,9,65.18,5/14/2023 09:15,Credit Card,Electronics,13.3
+274071,D,6,135.4,7/13/2023 10:02,Cash,Electronics,23.5
+274221,D,3,128.28,5/19/2023 11:00,PayPal,Electronics,19.3
+274498,B,5,58.31,8/22/2023 19:37,Debit Card,Books,2.6
+274647,A,3,51.47,9/7/2023 01:06,Cash,Books,5.3
+274759,B,4,145.41,9/24/2023 00:25,Cash,Electronics,22.5
+274845,B,8,12.1,1/16/2024 02:06,Credit Card,Books,0.3
+274967,D,6,61.4,4/24/2024 12:16,Credit Card,Books,15.4
+275124,D,6,16.72,2/6/2024 12:47,Debit Card,Clothing,1
+275466,B,3,86.57,1/22/2024 06:01,PayPal,Home Decor,4.6
+275674,B,4,70.33,3/9/2024 06:47,PayPal,Clothing,8.1
+275777,C,8,135.7,6/13/2023 16:35,Credit Card,Electronics,12.2
+275847,C,6,87.98,6/29/2023 12:29,Debit Card,Clothing,1.1
+276186,A,2,65.8,12/29/2023 02:03,Debit Card,Clothing,1.9
+276498,A,2,39.4,11/6/2023 00:14,Cash,Clothing,16.2
+276714,A,2,87.45,3/4/2024 05:49,Cash,Clothing,0.3
+276774,B,5,11.8,9/13/2023 01:42,Cash,Books,14.4
+276896,A,6,113.97,8/25/2023 14:38,Cash,Electronics,19.6
+277031,A,9,68.79,6/16/2023 19:47,Cash,Electronics,10.9
+277039,D,4,92.09,11/7/2023 04:45,Cash,Clothing,6.1
+277261,B,1,65.57,3/29/2024 03:23,Cash,Electronics,9.7
+277776,D,6,139.03,12/3/2023 21:00,Cash,Electronics,20.3
+277997,A,7,31.08,4/25/2024 23:36,Credit Card,Home Decor,7.8
+278178,C,9,90.89,12/13/2023 05:46,Credit Card,Electronics,23.6
+278496,D,9,150.01,3/1/2024 13:21,PayPal,Electronics,15
+278583,A,4,123.1,6/24/2023 10:32,PayPal,Electronics,5.7
+278706,A,3,37.83,9/29/2023 07:20,Debit Card,Books,5
+279316,D,6,86.17,9/4/2023 02:10,Credit Card,Electronics,11.3
+279560,A,2,16.45,12/25/2023 17:31,Credit Card,Books,2.3
+279620,D,1,81,2/26/2024 08:13,Debit Card,Clothing,0.4
+279632,B,9,120.52,11/8/2023 04:19,PayPal,Electronics,19
+279732,D,1,74.57,9/23/2023 08:05,Debit Card,Home Decor,1.5
+279897,A,9,73.13,5/29/2023 07:18,Cash,Home Decor,18.3
+280042,B,1,75.04,12/2/2023 09:06,Credit Card,Clothing,18.5
+280734,B,3,58.86,7/25/2023 22:17,PayPal,Clothing,12.6
+280919,B,7,41.59,8/24/2023 13:59,Credit Card,Clothing,16.9
+280939,A,1,143.47,8/16/2023 08:32,Debit Card,Electronics,20.4
+281149,B,2,145.65,1/23/2024 01:56,Credit Card,Electronics,22.9
+281525,D,4,69.55,11/24/2023 19:30,Credit Card,Electronics,11.1
+282132,A,7,55.2,11/5/2023 10:57,PayPal,Books,16.6
+282369,C,9,21.74,8/28/2023 15:08,Cash,Books,11.9
+282386,D,6,53.91,10/28/2023 00:25,Debit Card,Home Decor,5.8
+282765,D,8,66.15,5/23/2023 05:47,PayPal,Clothing,9.5
+282938,B,6,30.36,3/7/2024 08:39,Debit Card,Home Decor,13
+283006,C,5,90.2,4/16/2024 00:53,Credit Card,Home Decor,9.5
+283240,A,2,53.23,7/10/2023 14:44,PayPal,Home Decor,15
+283776,C,7,38.79,6/4/2023 06:15,Debit Card,Clothing,15.2
+283855,B,5,12,2/7/2024 18:40,PayPal,Books,16.2
+283871,A,7,15.39,10/13/2023 19:37,Debit Card,Clothing,15.3
+283872,B,3,85.63,1/8/2024 13:27,Cash,Electronics,16.3
+284270,B,1,119.85,9/5/2023 06:16,Cash,Electronics,15.6
+284831,C,1,86.71,5/18/2023 07:40,Cash,Home Decor,3.6
+284956,B,3,16.03,3/17/2024 10:12,PayPal,Home Decor,14.8
+284969,C,2,54.71,1/2/2024 17:46,Credit Card,Books,9.3
+285327,D,4,66.48,5/29/2023 17:15,Cash,Books,9.6
+285456,B,8,134.54,12/17/2023 07:38,Credit Card,Electronics,18
+285899,B,3,28.37,2/20/2024 10:35,Credit Card,Books,14
+286065,C,4,121.4,1/8/2024 13:35,Credit Card,Electronics,6.9
+286644,D,2,53.22,5/29/2023 22:29,Cash,Books,6.3
+286724,D,6,68.55,10/15/2023 07:06,PayPal,Books,11.6
+286835,B,2,32.64,2/26/2024 05:28,PayPal,Books,9.5
+286913,D,2,108.83,1/22/2024 05:26,PayPal,Electronics,15.9
+287017,A,6,94.96,8/8/2023 18:29,Cash,Clothing,18.5
+287446,A,6,40.85,2/3/2024 01:24,Cash,Books,16
+288491,C,4,67.61,1/30/2024 04:43,Cash,Electronics,21.8
+288620,D,2,44.55,7/29/2023 09:07,Credit Card,Clothing,12.2
+288723,B,6,69.04,1/6/2024 23:11,Credit Card,Electronics,20.8
+289218,C,8,85.39,6/15/2023 18:05,Debit Card,Books,19.1
+289399,C,4,69.28,7/28/2023 06:41,PayPal,Electronics,16.1
+289718,D,2,41.26,8/14/2023 13:36,PayPal,Clothing,9.8
+289888,D,5,76.34,7/20/2023 01:30,PayPal,Books,5.6
+289962,D,3,66.17,6/13/2023 21:40,Credit Card,Books,7.1
+290044,D,1,116.53,1/9/2024 14:18,Cash,Electronics,13.9
+290607,B,7,39.27,10/29/2023 13:34,PayPal,Books,8.4
+290733,A,7,42.24,11/18/2023 01:19,Cash,Clothing,9.3
+291028,B,6,23.71,7/18/2023 05:46,PayPal,Books,17.9
+291099,A,6,138.13,6/16/2023 10:33,Debit Card,Electronics,7.7
+291810,C,6,96.38,5/5/2023 03:59,PayPal,Clothing,1.3
+291863,C,7,53.47,3/13/2024 13:10,Debit Card,Home Decor,3.4
+292171,C,2,23.78,11/10/2023 04:44,Credit Card,Home Decor,7.1
+292251,C,8,136.66,7/10/2023 03:26,Cash,Electronics,15.4
+292809,D,1,74.83,5/9/2023 22:21,Credit Card,Clothing,18.8
+292859,A,5,65.71,10/29/2023 11:15,Cash,Electronics,16.8
+292867,B,3,15.63,3/30/2024 13:31,Debit Card,Clothing,18.8
+293017,C,7,14.98,9/6/2023 07:40,PayPal,Books,17.2
+293408,A,4,79.02,4/26/2024 21:40,PayPal,Electronics,14.9
+293569,B,3,76.86,8/18/2023 17:00,Cash,Clothing,
+293569,B,3,76.86,8/18/2023 17:00,Cash,Clothing,
+293578,A,1,96.92,10/7/2023 12:11,PayPal,Books,14.4
+293752,A,7,21.67,11/19/2023 13:25,PayPal,Books,6.6
+293912,C,7,88.54,4/19/2024 05:36,Credit Card,Books,10.2
+294133,A,3,38.66,6/19/2023 15:17,Cash,Books,2.3
+294197,D,8,68.16,5/9/2023 02:27,Cash,Electronics,5.6
+294299,D,9,113.42,4/6/2024 08:58,PayPal,Electronics,17
+294322,A,4,73.07,3/23/2024 06:25,Debit Card,Clothing,18.2
+294565,D,5,54.55,2/9/2024 22:57,Cash,Books,17.4
+294568,B,7,21.17,6/22/2023 07:31,Debit Card,Books,15.5
+294961,C,1,91.2,10/27/2023 17:56,Cash,Electronics,6.9
+295422,B,6,106.2,1/26/2024 08:10,Debit Card,Electronics,24
+295562,D,1,85.03,9/13/2023 18:24,Cash,Books,12.8
+295610,C,7,18.61,1/10/2024 14:17,Credit Card,Home Decor,17.4
+295675,B,4,69.67,10/6/2023 22:50,Debit Card,Clothing,19.3
+295787,B,6,74.95,7/3/2023 16:54,Cash,Home Decor,18.5
+296058,C,3,7.83,7/12/2023 01:29,PayPal,Clothing,16.1
+296681,B,1,97.18,11/3/2023 04:36,PayPal,Home Decor,16.5
+296808,D,4,84.96,12/21/2023 04:04,Debit Card,Clothing,0.2
+296860,B,9,45.12,3/9/2024 16:11,PayPal,Home Decor,17.3
+296914,C,6,15.98,3/15/2024 08:18,Cash,Home Decor,5.9
+297548,A,4,24.09,11/21/2023 12:17,PayPal,Books,6
+297564,A,4,83.21,11/5/2023 07:14,PayPal,Electronics,23.9
+297650,B,5,138.3,12/1/2023 16:31,Credit Card,Electronics,13.5
+297820,B,7,64.62,2/18/2024 07:09,Credit Card,Clothing,6.5
+297950,A,9,8.32,6/7/2023 12:13,PayPal,Clothing,0.1
+298130,D,8,95.12,11/14/2023 22:35,Debit Card,Home Decor,16.5
+298172,B,6,67.54,11/16/2023 12:07,PayPal,Electronics,13
+298177,D,4,68.38,7/31/2023 04:40,Debit Card,Clothing,4.4
+298197,A,7,42.6,8/21/2023 00:39,Credit Card,Books,19.5
+298350,D,5,54.67,9/22/2023 05:33,Cash,Books,16.5
+298391,D,7,78.13,8/20/2023 00:40,Credit Card,Books,19.5
+298567,C,5,76.02,9/23/2023 00:08,Debit Card,Electronics,20.6
+298653,D,7,82.16,11/27/2023 22:00,Credit Card,Clothing,0.3
+298695,B,1,103.24,6/12/2023 15:01,PayPal,Electronics,7.9
+298721,A,8,43.87,7/21/2023 01:17,PayPal,Books,1.3
+298832,B,6,57.36,6/22/2023 23:33,Debit Card,Books,17.1
+298848,D,7,82.33,6/25/2023 01:30,Credit Card,Home Decor,0.8
+299118,C,7,12.56,6/3/2023 02:32,Credit Card,Books,3.6

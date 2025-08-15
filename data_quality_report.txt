@@ -1,0 +1,18 @@
+Missing Values and Percentage:
+                Missing Values  Percentage
+Id                           0         0.0
+Age                          0         0.0
+Income                       0         0.0
+Home                         0         0.0
+Emp_length                   0         0.0
+Intent                       0         0.0
+Amount                       0         0.0
+Rate                         0         0.0
+Status                       0         0.0
+Percent_income               0         0.0
+Default                      0         0.0
+Cred_length                  0         0.0
+
+Outliers Summary:
+Emp_length    853
+Rate           70
